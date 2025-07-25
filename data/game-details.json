@@ -45,8 +45,8 @@
     "dlc": [],
     "achievements": 0,
     "metacriticScore": 88,
-    "recommendations": 161152,
-    "lastUpdated": "7/24/2025, 10:58:50 AM"
+    "recommendations": 161165,
+    "lastUpdated": "7/25/2025, 10:57:57 AM"
   },
   {
     "steamId": "70",
@@ -96,8 +96,8 @@
     ],
     "achievements": 0,
     "metacriticScore": 96,
-    "recommendations": 106259,
-    "lastUpdated": "7/24/2025, 10:58:53 AM"
+    "recommendations": 106279,
+    "lastUpdated": "7/25/2025, 10:58:00 AM"
   },
   {
     "steamId": "100",
@@ -145,8 +145,8 @@
     "dlc": [],
     "achievements": 0,
     "metacriticScore": 65,
-    "recommendations": 19962,
-    "lastUpdated": "7/24/2025, 10:58:57 AM"
+    "recommendations": 19963,
+    "lastUpdated": "7/25/2025, 10:58:05 AM"
   },
   {
     "steamId": "220",
@@ -209,8 +209,8 @@
     ],
     "achievements": 69,
     "metacriticScore": 96,
-    "recommendations": 183083,
-    "lastUpdated": "7/24/2025, 10:59:06 AM"
+    "recommendations": 183118,
+    "lastUpdated": "7/25/2025, 10:58:14 AM"
   },
   {
     "steamId": "240",
@@ -258,8 +258,8 @@
     "dlc": [],
     "achievements": 147,
     "metacriticScore": 88,
-    "recommendations": 127524,
-    "lastUpdated": "7/24/2025, 10:59:10 AM"
+    "recommendations": 127538,
+    "lastUpdated": "7/25/2025, 10:58:17 AM"
   },
   {
     "steamId": "320",
@@ -300,8 +300,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 9638,
-    "lastUpdated": "7/24/2025, 10:59:14 AM"
+    "recommendations": 9640,
+    "lastUpdated": "7/25/2025, 10:58:21 AM"
   },
   {
     "steamId": "340",
@@ -342,8 +342,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 10657,
-    "lastUpdated": "7/24/2025, 10:59:23 AM"
+    "recommendations": 10658,
+    "lastUpdated": "7/25/2025, 10:58:31 AM"
   },
   {
     "steamId": "400",
@@ -401,8 +401,8 @@
     ],
     "achievements": 15,
     "metacriticScore": 90,
-    "recommendations": 156191,
-    "lastUpdated": "7/24/2025, 10:59:27 AM"
+    "recommendations": 156232,
+    "lastUpdated": "7/25/2025, 10:58:35 AM"
   },
   {
     "steamId": "440",
@@ -460,8 +460,8 @@
     ],
     "achievements": 520,
     "metacriticScore": 92,
-    "recommendations": 43296,
-    "lastUpdated": "7/24/2025, 10:59:31 AM"
+    "recommendations": 43317,
+    "lastUpdated": "7/25/2025, 10:58:38 AM"
   },
   {
     "steamId": "550",
@@ -516,8 +516,8 @@
     "dlc": [],
     "achievements": 101,
     "metacriticScore": 89,
-    "recommendations": 746254,
-    "lastUpdated": "7/24/2025, 10:59:40 AM"
+    "recommendations": 746444,
+    "lastUpdated": "7/25/2025, 10:58:48 AM"
   },
   {
     "steamId": "730",
@@ -574,8 +574,8 @@
       2678630
     ],
     "achievements": 1,
-    "recommendations": 4594396,
-    "lastUpdated": "7/24/2025, 10:59:44 AM"
+    "recommendations": 4595645,
+    "lastUpdated": "7/25/2025, 10:58:52 AM"
   },
   {
     "steamId": "4000",
@@ -587,11 +587,11 @@
     "publisher": "Valve",
     "releaseDate": "2006 年 11 月 30 日",
     "comingSoon": false,
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1736937068",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1753371568",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.600x338.jpg?t=1736937068",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.600x338.jpg?t=1736937068",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.600x338.jpg?t=1736937068"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.600x338.jpg?t=1753371568",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.600x338.jpg?t=1753371568",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.600x338.jpg?t=1753371568"
     ],
     "movies": [],
     "genres": [
@@ -617,15 +617,15 @@
     "price": {
       "currency": "CNY",
       "initial": 36,
-      "final": 21.6,
-      "discount_percent": 40,
-      "formatted": "¥ 21.60"
+      "final": 36,
+      "discount_percent": 0,
+      "formatted": "¥ 36.00"
     },
     "isFree": false,
     "dlc": [],
     "achievements": 29,
-    "recommendations": 1007306,
-    "lastUpdated": "7/24/2025, 10:59:49 AM"
+    "recommendations": 1007550,
+    "lastUpdated": "7/25/2025, 10:58:56 AM"
   },
   {
     "steamId": "8930",
@@ -691,8 +691,8 @@
     ],
     "achievements": 286,
     "metacriticScore": 90,
-    "recommendations": 124697,
-    "lastUpdated": "7/24/2025, 10:59:57 AM"
+    "recommendations": 124706,
+    "lastUpdated": "7/25/2025, 10:59:04 AM"
   },
   {
     "steamId": "49520",
@@ -754,8 +754,8 @@
     ],
     "achievements": 75,
     "metacriticScore": 89,
-    "recommendations": 212450,
-    "lastUpdated": "7/24/2025, 11:00:01 AM"
+    "recommendations": 212461,
+    "lastUpdated": "7/25/2025, 10:59:08 AM"
   },
   {
     "steamId": "105600",
@@ -822,8 +822,8 @@
     ],
     "achievements": 115,
     "metacriticScore": 83,
-    "recommendations": 1135007,
-    "lastUpdated": "7/24/2025, 11:00:05 AM"
+    "recommendations": 1135264,
+    "lastUpdated": "7/25/2025, 10:59:12 AM"
   },
   {
     "steamId": "107410",
@@ -878,9 +878,9 @@
     "price": {
       "currency": "CNY",
       "initial": 119,
-      "final": 119,
-      "discount_percent": 0,
-      "formatted": "¥ 119.00"
+      "final": 17.85,
+      "discount_percent": 85,
+      "formatted": "¥ 17.85"
     },
     "isFree": false,
     "dlc": [
@@ -892,8 +892,8 @@
     ],
     "achievements": 123,
     "metacriticScore": 74,
-    "recommendations": 220326,
-    "lastUpdated": "7/24/2025, 11:00:12 AM"
+    "recommendations": 220350,
+    "lastUpdated": "7/25/2025, 10:59:22 AM"
   },
   {
     "steamId": "108600",
@@ -950,8 +950,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 294014,
-    "lastUpdated": "7/24/2025, 11:00:15 AM"
+    "recommendations": 294126,
+    "lastUpdated": "7/25/2025, 10:59:26 AM"
   },
   {
     "steamId": "218620",
@@ -1019,8 +1019,8 @@
     ],
     "achievements": 1328,
     "metacriticScore": 79,
-    "recommendations": 436399,
-    "lastUpdated": "7/24/2025, 11:00:20 AM"
+    "recommendations": 436424,
+    "lastUpdated": "7/25/2025, 10:59:30 AM"
   },
   {
     "steamId": "219990",
@@ -1090,8 +1090,8 @@
     ],
     "achievements": 185,
     "metacriticScore": 83,
-    "recommendations": 84645,
-    "lastUpdated": "7/24/2025, 11:00:29 AM"
+    "recommendations": 84657,
+    "lastUpdated": "7/25/2025, 10:59:39 AM"
   },
   {
     "steamId": "221100",
@@ -1157,8 +1157,8 @@
       2622430
     ],
     "achievements": 13,
-    "recommendations": 360251,
-    "lastUpdated": "7/24/2025, 11:00:32 AM"
+    "recommendations": 360341,
+    "lastUpdated": "7/25/2025, 10:59:43 AM"
   },
   {
     "steamId": "227300",
@@ -1226,8 +1226,8 @@
     ],
     "achievements": 101,
     "metacriticScore": 79,
-    "recommendations": 697993,
-    "lastUpdated": "7/24/2025, 11:00:38 AM"
+    "recommendations": 698212,
+    "lastUpdated": "7/25/2025, 10:59:48 AM"
   },
   {
     "steamId": "227940",
@@ -1280,7 +1280,7 @@
     "dlc": [],
     "achievements": 0,
     "recommendations": 2366,
-    "lastUpdated": "7/24/2025, 11:00:46 AM"
+    "lastUpdated": "7/25/2025, 10:59:58 AM"
   },
   {
     "steamId": "230410",
@@ -1344,23 +1344,23 @@
     "achievements": 193,
     "metacriticScore": 69,
     "recommendations": 2892,
-    "lastUpdated": "7/24/2025, 11:00:49 AM"
+    "lastUpdated": "7/25/2025, 11:00:02 AM"
   },
   {
     "steamId": "236390",
     "name": "War Thunder",
     "type": "game",
     "description": "War Thunder上最全面的免费、跨平台大型多人在线军事类游戏，专注于二战和冷战时期的航空、装甲车辆和海军舰艇。现在就加入进来参与在地面、天空和海洋进行的主要战事，并和来自全球各地的几百万玩家们在不断变化的环境中战斗。",
-    "fullDescription": "<div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_logo.gif?t=1750955981\" /></div><br><br><strong>War Thunder</strong>是Windows、Linux、Mac、PlayStation®4、PlayStation®5、Xbox One及Xbox Series S|X平台上最全面的免费、跨平台大型和Xbox One平台上最全面的免费、跨平台大型多人在线军事类游戏，专注于二战和冷战时期的航空、装甲车辆和海军舰艇。现在就加入进来参与在地面、天空和海洋进行的主要战事，并和来自全球各地的几百万玩家们在不断变化的环境中战斗。<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_1.gif?t=1750955981\" /></div><br><br>在War Thunder中，飞机、武装直升机、地面部队和海军舰艇将会在历史性的战场上协同作战，有超过2500种载具可供选择，其中有不少是独家载具，您可以操纵轰炸机的自卫炮塔内击毁追击您的敌机，驾驶高射炮保护您的队友免遭空袭，使用多种火箭发射器击落敌机，或用驾驶快艇用鱼雷击沉敌人的战舰。<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_2.gif?t=1750955981\" /></div><h2 class=\"bb_tag\">游戏特色：</h2><br><ul class=\"bb_ul\"><li>超过2500款细节丰富的飞机、直升机、坦克、军舰和其他载具，均通过历史文献和幸存资料来源精心制作。<br></li><li>100多张表现历史上发生的主要战事的地图。<br></li><li>玩家之间的高强度对抗，在全面的战斗任务中可以设置不同难度以体现多种多样的游戏风格和水平。<br></li><li>丰富的人机对抗内容，其中包括动态的历史战役和个人任务。<br></li><li>定期更新内容，包括新载具、地图、任务和国家。<br></li><li>惊人的画质，真实的音效和优美的背景音乐创造了一个能够让您沉浸其中的世界。<br></li><li>无缝衔接的跨平台游戏体验，Windows，Linux，Max，PlayStation®4, PlayStation®5, Xbox One 和 Xbox Series X|S，所有玩家都能在一个服务器上畅玩。<br></li><li>为War Thunder定制优异的内容并在 War Thunder Live上面分享，并有机会获得现金作为奖励！</li></ul><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_3.gif?t=1750955981\" /></div>",
+    "fullDescription": "<div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_logo.gif?t=1753375859\" /></div><br><br><strong>War Thunder</strong>是Windows、Linux、Mac、PlayStation®4、PlayStation®5、Xbox One及Xbox Series S|X平台上最全面的免费、跨平台大型和Xbox One平台上最全面的免费、跨平台大型多人在线军事类游戏，专注于二战和冷战时期的航空、装甲车辆和海军舰艇。现在就加入进来参与在地面、天空和海洋进行的主要战事，并和来自全球各地的几百万玩家们在不断变化的环境中战斗。<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_1.gif?t=1753375859\" /></div><br><br>在War Thunder中，飞机、武装直升机、地面部队和海军舰艇将会在历史性的战场上协同作战，有超过2500种载具可供选择，其中有不少是独家载具，您可以操纵轰炸机的自卫炮塔内击毁追击您的敌机，驾驶高射炮保护您的队友免遭空袭，使用多种火箭发射器击落敌机，或用驾驶快艇用鱼雷击沉敌人的战舰。<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_2.gif?t=1753375859\" /></div><h2 class=\"bb_tag\">游戏特色：</h2><br><ul class=\"bb_ul\"><li>超过2500款细节丰富的飞机、直升机、坦克、军舰和其他载具，均通过历史文献和幸存资料来源精心制作。<br></li><li>100多张表现历史上发生的主要战事的地图。<br></li><li>玩家之间的高强度对抗，在全面的战斗任务中可以设置不同难度以体现多种多样的游戏风格和水平。<br></li><li>丰富的人机对抗内容，其中包括动态的历史战役和个人任务。<br></li><li>定期更新内容，包括新载具、地图、任务和国家。<br></li><li>惊人的画质，真实的音效和优美的背景音乐创造了一个能够让您沉浸其中的世界。<br></li><li>无缝衔接的跨平台游戏体验，Windows，Linux，Max，PlayStation®4, PlayStation®5, Xbox One 和 Xbox Series X|S，所有玩家都能在一个服务器上畅玩。<br></li><li>为War Thunder定制优异的内容并在 War Thunder Live上面分享，并有机会获得现金作为奖励！</li></ul><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/WT_giff_3.gif?t=1753375859\" /></div>",
     "developer": "Gaijin Entertainment",
     "publisher": "Gaijin Network Ltd",
     "releaseDate": "2013 年 8 月 15 日",
     "comingSoon": false,
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/2138d08fc22dbf6a20ebff4cfa4632b359de8daf/header.jpg?t=1750955981",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/2138d08fc22dbf6a20ebff4cfa4632b359de8daf/header.jpg?t=1753375859",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_68bc95495ba9752b44d6655f07cf41a5c26306f6.600x338.jpg?t=1750955981",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_5190ebc65d0fd3628d8f804af52c8b9d0786d183.600x338.jpg?t=1750955981",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_fee9c41789ba7227b3cc66db04d8d8f72b3c15cb.600x338.jpg?t=1750955981"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_3801dc6ae62e793aee2f073c2ac755c85edf0bb7.600x338.jpg?t=1753375859",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_15343f845523e07d5fc51c6208f362b7bcaa1fbe.600x338.jpg?t=1753375859",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_8c28d914813b82f36d306e5ea322a70f9050f9bc.600x338.jpg?t=1753375859"
     ],
     "movies": [
       {
@@ -1409,7 +1409,7 @@
     "achievements": 90,
     "metacriticScore": 81,
     "recommendations": 1931,
-    "lastUpdated": "7/24/2025, 11:00:54 AM"
+    "lastUpdated": "7/25/2025, 11:00:07 AM"
   },
   {
     "steamId": "239140",
@@ -1477,8 +1477,8 @@
     ],
     "achievements": 78,
     "metacriticScore": 87,
-    "recommendations": 348814,
-    "lastUpdated": "7/24/2025, 11:01:07 AM"
+    "recommendations": 348863,
+    "lastUpdated": "7/25/2025, 11:00:20 AM"
   },
   {
     "steamId": "242760",
@@ -1536,8 +1536,8 @@
     "dlc": [],
     "achievements": 45,
     "metacriticScore": 83,
-    "recommendations": 540843,
-    "lastUpdated": "7/24/2025, 11:01:12 AM"
+    "recommendations": 540951,
+    "lastUpdated": "7/25/2025, 11:00:23 AM"
   },
   {
     "steamId": "251570",
@@ -1607,8 +1607,8 @@
       3635260
     ],
     "achievements": 43,
-    "recommendations": 257629,
-    "lastUpdated": "7/24/2025, 11:01:22 AM"
+    "recommendations": 257815,
+    "lastUpdated": "7/25/2025, 11:00:30 AM"
   },
   {
     "steamId": "252490",
@@ -1678,8 +1678,8 @@
     ],
     "achievements": 92,
     "metacriticScore": 69,
-    "recommendations": 1032173,
-    "lastUpdated": "7/24/2025, 11:01:25 AM"
+    "recommendations": 1032424,
+    "lastUpdated": "7/25/2025, 11:00:35 AM"
   },
   {
     "steamId": "255710",
@@ -1741,8 +1741,8 @@
     ],
     "achievements": 127,
     "metacriticScore": 85,
-    "recommendations": 208256,
-    "lastUpdated": "7/24/2025, 11:01:40 AM"
+    "recommendations": 208295,
+    "lastUpdated": "7/25/2025, 11:00:48 AM"
   },
   {
     "steamId": "261550",
@@ -1810,8 +1810,8 @@
     ],
     "achievements": 50,
     "metacriticScore": 77,
-    "recommendations": 207703,
-    "lastUpdated": "7/24/2025, 11:01:44 AM"
+    "recommendations": 207735,
+    "lastUpdated": "7/25/2025, 11:00:52 AM"
   },
   {
     "steamId": "271590",
@@ -1867,8 +1867,8 @@
     "dlc": [],
     "achievements": 77,
     "metacriticScore": 96,
-    "recommendations": 1830282,
-    "lastUpdated": "7/24/2025, 11:01:49 AM"
+    "recommendations": 1830429,
+    "lastUpdated": "7/25/2025, 11:00:56 AM"
   },
   {
     "steamId": "289070",
@@ -1929,8 +1929,8 @@
     ],
     "achievements": 320,
     "metacriticScore": 88,
-    "recommendations": 260215,
-    "lastUpdated": "7/24/2025, 11:01:59 AM"
+    "recommendations": 260257,
+    "lastUpdated": "7/25/2025, 11:01:05 AM"
   },
   {
     "steamId": "291480",
@@ -1987,7 +1987,7 @@
     ],
     "achievements": 67,
     "recommendations": 917,
-    "lastUpdated": "7/24/2025, 11:02:04 AM"
+    "lastUpdated": "7/25/2025, 11:01:09 AM"
   },
   {
     "steamId": "291550",
@@ -2048,7 +2048,7 @@
     ],
     "achievements": 65,
     "recommendations": 2887,
-    "lastUpdated": "7/24/2025, 11:02:08 AM"
+    "lastUpdated": "7/25/2025, 11:01:14 AM"
   },
   {
     "steamId": "292030",
@@ -2115,8 +2115,8 @@
     ],
     "achievements": 78,
     "metacriticScore": 93,
-    "recommendations": 780090,
-    "lastUpdated": "7/24/2025, 11:02:17 AM"
+    "recommendations": 780217,
+    "lastUpdated": "7/25/2025, 11:01:23 AM"
   },
   {
     "steamId": "304050",
@@ -2182,7 +2182,7 @@
     ],
     "achievements": 19,
     "recommendations": 970,
-    "lastUpdated": "7/24/2025, 11:02:21 AM"
+    "lastUpdated": "7/25/2025, 11:01:27 AM"
   },
   {
     "steamId": "304930",
@@ -2243,7 +2243,7 @@
     ],
     "achievements": 83,
     "recommendations": 7563,
-    "lastUpdated": "7/24/2025, 11:02:25 AM"
+    "lastUpdated": "7/25/2025, 11:01:31 AM"
   },
   {
     "steamId": "322330",
@@ -2315,8 +2315,8 @@
     ],
     "achievements": 0,
     "metacriticScore": 83,
-    "recommendations": 346213,
-    "lastUpdated": "7/24/2025, 11:02:36 AM"
+    "recommendations": 346279,
+    "lastUpdated": "7/25/2025, 11:01:41 AM"
   },
   {
     "steamId": "346110",
@@ -2387,8 +2387,8 @@
     ],
     "achievements": 32,
     "metacriticScore": 70,
-    "recommendations": 556561,
-    "lastUpdated": "7/24/2025, 11:02:40 AM"
+    "recommendations": 556681,
+    "lastUpdated": "7/25/2025, 11:01:45 AM"
   },
   {
     "steamId": "359550",
@@ -2443,8 +2443,8 @@
       417464
     ],
     "achievements": 0,
-    "recommendations": 1207435,
-    "lastUpdated": "7/24/2025, 11:02:45 AM"
+    "recommendations": 1207638,
+    "lastUpdated": "7/25/2025, 11:01:50 AM"
   },
   {
     "steamId": "377160",
@@ -2511,24 +2511,24 @@
     ],
     "achievements": 84,
     "metacriticScore": 84,
-    "recommendations": 263737,
-    "lastUpdated": "7/24/2025, 11:02:56 AM"
+    "recommendations": 263766,
+    "lastUpdated": "7/25/2025, 11:02:00 AM"
   },
   {
     "steamId": "381210",
     "name": "黎明杀机",
     "type": "game",
     "description": "&quot;永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。 &quot;",
-    "fullDescription": "<h1>《黎明杀机：Five Nights at Freddy’s》合作版</h1><p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_SBDP_FNAF_Edition_STEAM_INFOGRAPHIC_Banner_V1.png?t=1752684376\" /></div>想迈出迷雾中的第一步？那就从《黎明杀机：Five Nights at Freddy’s》合作版开始吧！不仅能够拥有游戏本体，还有备受期待的《Five Nights at Freddy’s》章节DLC，包括弹簧陷阱和章节专属物品：披萨堆饰章和通风管爬行横幅。</p></p><br><h1>《黎明杀机》 - 黄金版</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_SBDP_GOLD_EDITION_UPDATE_01_616x353_VF.jpg?t=1752684376\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_SBDP_GOLD_EDITION_UPDATE_02_616x353_VF.jpg?t=1752684376\" /></div><br><br>《黎明杀机》黄金版包含基础游戏和12个章节，共计16名杀手和19名逃生者，让你尽享恐怖。<br><br>无论你刚开始迷雾之旅，还是希望更上一层楼，没有比黄金版更好的起点了。在《黎明杀机》中体验众多恐怖角色的精髓。<br><br> 除了基础游戏角色之外，黄金版还包括： <br><br>- 妖巫&amp;埃斯·维斯孔蒂  <br>- 医生&amp;凤敏 <br>- 小丑&amp;凯特·登森 <br>- 怨灵&amp;亚当·弗朗西斯  <br>- 军团&amp;杰夫·约翰森 <br>- 瘟疫&amp;简·罗梅罗  <br>- 鬼武士&amp;木村唯  <br>- 死亡枪手&amp;萨丽娜·卡希尔  <br>- 枯萎者&amp;菲利克斯·里奇特  <br>- 连体婴&amp;伊洛迪·拉科托  <br>- 骗术师&amp;李允珍  <br>- 米凯拉·里德  <br>- 额外套装&amp;DLC专属物品</p><br><h1>OVERVIEW</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/SimplifiedCN_Infographic_steam_DbD_616.jpg?t=1752684376\" /></div></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DeadbyDaylight_anime_Intro_Steam.jpg?t=1752684376\" /></div></p><p class=\"bb_paragraph\">死亡并不是解脱。[/h2]</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">逃生者们将以第三视角进行游戏，其优势在于对周围环境拥有更开阔的视野。而杀手则更着眼于眼前的猎物，他将以第一视角进行游戏。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">逃生者的目标固然就是在不被杀手抓到的情况下安全地逃离杀戮场——但相信我，这件事做起来真的没有听上去这么容易，特别是周围环境瞬息万变。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\">游戏特色</h2><p class=\"bb_paragraph\">•\t<strong>要一起活下去吗…</strong> - 作为逃生者的你既可以和其他人合作，也可以选择单打独斗。当然你活下来的几率会根据是否与他人合作而改变。那么问题来了，你有信心以智慧取胜并且逃离他们的杀戮场吗？</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">•\t<strong>我到底在哪？</strong> - 每一个关卡的位置都由程序随机生成，这意味着你永远不知道是什么正在黑暗中等待着你。随机的重生点和环境的改变让你永远不会感觉到一丝的安全。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">•\t<strong>一场杀戮的盛宴</strong> - 黎明杀机集合了各种恐怖元素，让地图上每一个角落都散发着恐怖的气息。作为杀手的你可以随心所欲地选择角色，从“形态可憎的杀人魔”到“无法洞悉的超自然实体”。熟悉你的杀戮场，精通每个杀手的特定技能，尽情地捕捉并献祭你的猎物吧。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_HillB_Trapper_Wraith_anime_Steam.jpg?t=1752684376\" /></div></p><p class=\"bb_paragraph\">•\t<strong>更深层的战术</strong> - 每个杀手和逃生者都拥有一套自己独立的进度体系和大量的可解锁物品，从而能够更深层的制定自己的战术和策略。经验、技能和对周围环境的认知将是你能否精准捕捉杀手动态并智胜他们的关键。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">•\t<strong>真实的玩家，真实的恐惧</strong> - 随机生成的关卡和玩家对恐惧的真实反应为每场游戏都带来了意料之外的展开。你永远无法预料到接下来会发生什么。气氛、音乐加上令人不寒而栗的场景，带给你绝对的恐怖体验。如果有足够的时间，你甚至可以发现隐藏在迷雾背后的深层谜团。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>警告：光敏性癫痫发作 - 请在游玩之前仔细阅读</strong></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">極少數人可能會在接觸特定種類的閃光或燈光圖案時發生癲癇性發作或暈厥。這些人，甚至是未曾發生癲癇或癲癇發作的人，可能會在遊玩電玩時發生癲癇症狀或是癲癇發作。如果您或是您的親戚有癲癇病症，或是曾經發生過任何類別的癲癇發作，請在遊玩電玩之前先諮詢您的醫生。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">若您或您的孩童發生任何以下症狀，請「立即停止」遊戲並諮詢醫生：暈眩、視線模糊、眼部或肌肉抽搐、不自主運動、失去意識、失去方向感或痙攣。家長應該注意或詢問孩童是否有以上症狀。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">您可以透過採取以下預防措施來降低光敏感性癲癇發作的風險：坐在離螢幕較遠的地方、使用較小的螢幕、在燈光充足的房間遊玩、不在疲憊或疲勞的狀況下遊玩。</p>",
+    "fullDescription": "<h1>《黎明杀机：Five Nights at Freddy’s》合作版</h1><p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_SBDP_FNAF_Edition_STEAM_INFOGRAPHIC_Banner_V1.png?t=1753383349\" /></div>想迈出迷雾中的第一步？那就从《黎明杀机：Five Nights at Freddy’s》合作版开始吧！不仅能够拥有游戏本体，还有备受期待的《Five Nights at Freddy’s》章节DLC，包括弹簧陷阱和章节专属物品：披萨堆饰章和通风管爬行横幅。</p></p><br><h1>《黎明杀机》 - 黄金版</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_SBDP_GOLD_EDITION_UPDATE_01_616x353_VF.jpg?t=1753383349\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_SBDP_GOLD_EDITION_UPDATE_02_616x353_VF.jpg?t=1753383349\" /></div><br><br>《黎明杀机》黄金版包含基础游戏和12个章节，共计16名杀手和19名逃生者，让你尽享恐怖。<br><br>无论你刚开始迷雾之旅，还是希望更上一层楼，没有比黄金版更好的起点了。在《黎明杀机》中体验众多恐怖角色的精髓。<br><br> 除了基础游戏角色之外，黄金版还包括： <br><br>- 妖巫&amp;埃斯·维斯孔蒂  <br>- 医生&amp;凤敏 <br>- 小丑&amp;凯特·登森 <br>- 怨灵&amp;亚当·弗朗西斯  <br>- 军团&amp;杰夫·约翰森 <br>- 瘟疫&amp;简·罗梅罗  <br>- 鬼武士&amp;木村唯  <br>- 死亡枪手&amp;萨丽娜·卡希尔  <br>- 枯萎者&amp;菲利克斯·里奇特  <br>- 连体婴&amp;伊洛迪·拉科托  <br>- 骗术师&amp;李允珍  <br>- 米凯拉·里德  <br>- 额外套装&amp;DLC专属物品</p><br><h1>OVERVIEW</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/SimplifiedCN_Infographic_steam_DbD_616.jpg?t=1753383349\" /></div></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DeadbyDaylight_anime_Intro_Steam.jpg?t=1753383349\" /></div></p><p class=\"bb_paragraph\">死亡并不是解脱。[/h2]</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">逃生者们将以第三视角进行游戏，其优势在于对周围环境拥有更开阔的视野。而杀手则更着眼于眼前的猎物，他将以第一视角进行游戏。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">逃生者的目标固然就是在不被杀手抓到的情况下安全地逃离杀戮场——但相信我，这件事做起来真的没有听上去这么容易，特别是周围环境瞬息万变。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\">游戏特色</h2><p class=\"bb_paragraph\">•\t<strong>要一起活下去吗…</strong> - 作为逃生者的你既可以和其他人合作，也可以选择单打独斗。当然你活下来的几率会根据是否与他人合作而改变。那么问题来了，你有信心以智慧取胜并且逃离他们的杀戮场吗？</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">•\t<strong>我到底在哪？</strong> - 每一个关卡的位置都由程序随机生成，这意味着你永远不知道是什么正在黑暗中等待着你。随机的重生点和环境的改变让你永远不会感觉到一丝的安全。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">•\t<strong>一场杀戮的盛宴</strong> - 黎明杀机集合了各种恐怖元素，让地图上每一个角落都散发着恐怖的气息。作为杀手的你可以随心所欲地选择角色，从“形态可憎的杀人魔”到“无法洞悉的超自然实体”。熟悉你的杀戮场，精通每个杀手的特定技能，尽情地捕捉并献祭你的猎物吧。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/extras/DBD_HillB_Trapper_Wraith_anime_Steam.jpg?t=1753383349\" /></div></p><p class=\"bb_paragraph\">•\t<strong>更深层的战术</strong> - 每个杀手和逃生者都拥有一套自己独立的进度体系和大量的可解锁物品，从而能够更深层的制定自己的战术和策略。经验、技能和对周围环境的认知将是你能否精准捕捉杀手动态并智胜他们的关键。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">•\t<strong>真实的玩家，真实的恐惧</strong> - 随机生成的关卡和玩家对恐惧的真实反应为每场游戏都带来了意料之外的展开。你永远无法预料到接下来会发生什么。气氛、音乐加上令人不寒而栗的场景，带给你绝对的恐怖体验。如果有足够的时间，你甚至可以发现隐藏在迷雾背后的深层谜团。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>警告：光敏性癫痫发作 - 请在游玩之前仔细阅读</strong></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">極少數人可能會在接觸特定種類的閃光或燈光圖案時發生癲癇性發作或暈厥。這些人，甚至是未曾發生癲癇或癲癇發作的人，可能會在遊玩電玩時發生癲癇症狀或是癲癇發作。如果您或是您的親戚有癲癇病症，或是曾經發生過任何類別的癲癇發作，請在遊玩電玩之前先諮詢您的醫生。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">若您或您的孩童發生任何以下症狀，請「立即停止」遊戲並諮詢醫生：暈眩、視線模糊、眼部或肌肉抽搐、不自主運動、失去意識、失去方向感或痙攣。家長應該注意或詢問孩童是否有以上症狀。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">您可以透過採取以下預防措施來降低光敏感性癲癇發作的風險：坐在離螢幕較遠的地方、使用較小的螢幕、在燈光充足的房間遊玩、不在疲憊或疲勞的狀況下遊玩。</p>",
     "developer": "Behaviour Interactive Inc.",
     "publisher": "Behaviour Interactive Inc.",
     "releaseDate": "2016 年 6 月 15 日",
     "comingSoon": false,
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1752684376",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1753383349",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_659500624438a4aa77bfdf304cba3ecebcd92ed9.600x338.jpg?t=1752684376",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_ca6b39f2fcac8feb75d23976b1be31290d58d159.600x338.jpg?t=1752684376",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_4075aac79adfe1a5b71665d2cc5ff7d52122650b.600x338.jpg?t=1752684376"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_659500624438a4aa77bfdf304cba3ecebcd92ed9.600x338.jpg?t=1753383349",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_ca6b39f2fcac8feb75d23976b1be31290d58d159.600x338.jpg?t=1753383349",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_4075aac79adfe1a5b71665d2cc5ff7d52122650b.600x338.jpg?t=1753383349"
     ],
     "movies": [
       {
@@ -2578,8 +2578,8 @@
       3103150
     ],
     "achievements": 279,
-    "recommendations": 593971,
-    "lastUpdated": "7/24/2025, 11:03:00 AM"
+    "recommendations": 594129,
+    "lastUpdated": "7/25/2025, 11:02:05 AM"
   },
   {
     "steamId": "386360",
@@ -2638,7 +2638,7 @@
     "achievements": 319,
     "metacriticScore": 83,
     "recommendations": 1403,
-    "lastUpdated": "7/24/2025, 11:03:03 AM"
+    "lastUpdated": "7/25/2025, 11:02:10 AM"
   },
   {
     "steamId": "413150",
@@ -2697,8 +2697,8 @@
     ],
     "achievements": 49,
     "metacriticScore": 89,
-    "recommendations": 777452,
-    "lastUpdated": "7/24/2025, 11:03:13 AM"
+    "recommendations": 777838,
+    "lastUpdated": "7/25/2025, 11:02:18 AM"
   },
   {
     "steamId": "417910",
@@ -2760,7 +2760,7 @@
     ],
     "achievements": 43,
     "recommendations": 321,
-    "lastUpdated": "7/24/2025, 11:03:17 AM"
+    "lastUpdated": "7/25/2025, 11:02:23 AM"
   },
   {
     "steamId": "431960",
@@ -2818,8 +2818,8 @@
       1790230
     ],
     "achievements": 17,
-    "recommendations": 842291,
-    "lastUpdated": "7/24/2025, 11:03:22 AM"
+    "recommendations": 842531,
+    "lastUpdated": "7/25/2025, 11:02:28 AM"
   },
   {
     "steamId": "433850",
@@ -2861,30 +2861,30 @@
     "achievements": 0,
     "metacriticScore": 70,
     "recommendations": 143820,
-    "lastUpdated": "7/24/2025, 11:03:31 AM"
+    "lastUpdated": "7/25/2025, 11:02:38 AM"
   },
   {
     "steamId": "438100",
     "name": "VRChat",
     "type": "game",
     "description": "Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat.",
-    "fullDescription": "<strong>Imagine a space filled with limitless possibilities. </strong><br><br>Spend your afternoon dogfighting in fighter jets, before winding down in a treehouse that exists floating in a nebula. Make a new best friend while exploring a haunted mansion, right before playing a hand of cards with a robot, alien, and eight-foot tall wolf.<br><br>In VRChat, there are hundreds of thousands of worlds, millions of avatars – <i>all created by the users</i>. No matter what you’re into, there’s a space in VRChat for you. And if there isn’t, we’ll give you the tools to make your dream a reality.<br><br>While not required to join in on the fun, VRChat was built to take advantage of VR headsets in many unique ways. That means avatars that flow with your movement, and systems that work alongside various hardware platforms to provide full-body tracking, finger tracking, and much, much more.<br><br>There’s something magical around every corner. Come take a look, and see what you find.<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/extras/01_MeetNewFriends.gif?t=1733413042\" /></div><br><br>In VRChat, there’s always something to do – and people to meet there.<br><br>Visit a planetarium and have a chat about astronomy. Go on a virtual hike through a majestic fantasy forest. Pull up to a car meet, and talk shop with some gearheads. Attend a live music event underneath a chemical storage facility, and talk obscure genres with DJs. Once you find your crowd, join their Group, and you'll be able to find them again the next time you're on.<br><br>Your community – <i>whatever it is</i> – is here.<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/extras/02_GoOnAnAdventure.gif?t=1733413042\" /></div><br><br>There are thousands of games to play in VRChat. Try running a kitchen in a busy restaurant, or racing go-karts in zero gravity. Fancy a battle royale? We’ve got those, too -- just probably with a wider diversity of avatars than you’ve ever seen before.<br><br>It doesn’t matter what you like to play: casual card games, shooters, racing, platformers, puzzles, horror, and of course, endless party games. If you want to play it, it probably exists here (and if it doesn't, you can build it yourself).<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/extras/03_BuildYourDreams.gif?t=1733413042\" /></div><br><br>Everything here was built by the community using the VRChat SDK. Combined with Unity and Udon, our in-house scripting language, we give our users as much power as possible to build whatever their imaginations can conjure up.<br><br><strong>But creation isn’t just limited to worlds.</strong><br><br>VRChat provides a level of creative freedom that is unmatched anywhere else, and nowhere is that reflected best than on the avatars of our users. In VRChat, you can be anything, and explore your identity however you’d like. Want to be an alien? A talking dog? A sentient shoe with glowing bits that react to the beat of music by changing color? <br><br>I mean, sure, if that’s what you’re about.<br><br><strong>Come on in -- hundreds of thousands of worlds (and a whole bunch of new friends!) are waiting for you.</strong>",
+    "fullDescription": "<strong>Imagine a space filled with limitless possibilities. </strong><br><br>Spend your afternoon dogfighting in fighter jets, before winding down in a treehouse that exists floating in a nebula. Make a new best friend while exploring a haunted mansion, right before playing a hand of cards with a robot, alien, and eight-foot tall wolf.<br><br>In VRChat, there are hundreds of thousands of worlds, millions of avatars – <i>all created by the users</i>. No matter what you’re into, there’s a space in VRChat for you. And if there isn’t, we’ll give you the tools to make your dream a reality.<br><br>While not required to join in on the fun, VRChat was built to take advantage of VR headsets in many unique ways. That means avatars that flow with your movement, and systems that work alongside various hardware platforms to provide full-body tracking, finger tracking, and much, much more.<br><br>There’s something magical around every corner. Come take a look, and see what you find.<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/extras/01_MeetNewFriends.gif?t=1753401422\" /></div><br><br>In VRChat, there’s always something to do – and people to meet there.<br><br>Visit a planetarium and have a chat about astronomy. Go on a virtual hike through a majestic fantasy forest. Pull up to a car meet, and talk shop with some gearheads. Attend a live music event underneath a chemical storage facility, and talk obscure genres with DJs. Once you find your crowd, join their Group, and you'll be able to find them again the next time you're on.<br><br>Your community – <i>whatever it is</i> – is here.<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/extras/02_GoOnAnAdventure.gif?t=1753401422\" /></div><br><br>There are thousands of games to play in VRChat. Try running a kitchen in a busy restaurant, or racing go-karts in zero gravity. Fancy a battle royale? We’ve got those, too -- just probably with a wider diversity of avatars than you’ve ever seen before.<br><br>It doesn’t matter what you like to play: casual card games, shooters, racing, platformers, puzzles, horror, and of course, endless party games. If you want to play it, it probably exists here (and if it doesn't, you can build it yourself).<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/extras/03_BuildYourDreams.gif?t=1753401422\" /></div><br><br>Everything here was built by the community using the VRChat SDK. Combined with Unity and Udon, our in-house scripting language, we give our users as much power as possible to build whatever their imaginations can conjure up.<br><br><strong>But creation isn’t just limited to worlds.</strong><br><br>VRChat provides a level of creative freedom that is unmatched anywhere else, and nowhere is that reflected best than on the avatars of our users. In VRChat, you can be anything, and explore your identity however you’d like. Want to be an alien? A talking dog? A sentient shoe with glowing bits that react to the beat of music by changing color? <br><br>I mean, sure, if that’s what you’re about.<br><br><strong>Come on in -- hundreds of thousands of worlds (and a whole bunch of new friends!) are waiting for you.</strong>",
     "developer": "VRChat Inc.",
     "publisher": "VRChat Inc.",
     "releaseDate": "2017 年 2 月 2 日",
     "comingSoon": false,
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1733413042",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1753401422",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_1577335ddadd96c338c16a747758290b4214eb85.600x338.jpg?t=1733413042",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_31f674ab2a2cdf3d72ff7e8155100f4539a65a72.600x338.jpg?t=1733413042",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_869211a61f76ff08db693092b43678278c396249.600x338.jpg?t=1733413042"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_1577335ddadd96c338c16a747758290b4214eb85.600x338.jpg?t=1753401422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_31f674ab2a2cdf3d72ff7e8155100f4539a65a72.600x338.jpg?t=1753401422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_869211a61f76ff08db693092b43678278c396249.600x338.jpg?t=1753401422"
     ],
     "movies": [
       {
         "id": 256738338,
         "name": "VRChat: Create, Share, Play",
-        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256738338/movie.293x165.jpg?t=1544752288",
-        "webm": "http://video.akamai.steamstatic.com/store_trailers/256738338/movie_max.webm?t=1544752288"
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256738338/2c25d8f4e2c0b7930e74ef9d5182eeff1a44e3a4/movie_600x337.jpg?t=1753401420",
+        "webm": "http://video.akamai.steamstatic.com/store_trailers/256738338/movie_max_vp9.webm?t=1753401420"
       }
     ],
     "genres": [
@@ -2916,7 +2916,7 @@
     "dlc": [],
     "achievements": 0,
     "recommendations": 149,
-    "lastUpdated": "7/24/2025, 11:03:35 AM"
+    "lastUpdated": "7/25/2025, 11:02:42 AM"
   },
   {
     "steamId": "444200",
@@ -2975,7 +2975,7 @@
     ],
     "achievements": 0,
     "recommendations": 921,
-    "lastUpdated": "7/24/2025, 11:03:48 AM"
+    "lastUpdated": "7/25/2025, 11:02:55 AM"
   },
   {
     "steamId": "477160",
@@ -3041,8 +3041,8 @@
     ],
     "achievements": 139,
     "metacriticScore": 70,
-    "recommendations": 165169,
-    "lastUpdated": "7/24/2025, 11:03:52 AM"
+    "recommendations": 165183,
+    "lastUpdated": "7/25/2025, 11:02:59 AM"
   },
   {
     "steamId": "526870",
@@ -3108,8 +3108,8 @@
     ],
     "achievements": 44,
     "metacriticScore": 91,
-    "recommendations": 201583,
-    "lastUpdated": "7/24/2025, 11:03:56 AM"
+    "recommendations": 201684,
+    "lastUpdated": "7/25/2025, 11:03:03 AM"
   },
   {
     "steamId": "532210",
@@ -3169,8 +3169,8 @@
       872080
     ],
     "achievements": 46,
-    "recommendations": 21265,
-    "lastUpdated": "7/24/2025, 11:04:06 AM"
+    "recommendations": 21268,
+    "lastUpdated": "7/25/2025, 11:03:14 AM"
   },
   {
     "steamId": "550650",
@@ -3219,7 +3219,7 @@
     ],
     "achievements": 36,
     "recommendations": 0,
-    "lastUpdated": "7/24/2025, 11:04:10 AM"
+    "lastUpdated": "7/25/2025, 11:03:19 AM"
   },
   {
     "steamId": "552990",
@@ -3284,8 +3284,8 @@
     ],
     "achievements": 43,
     "metacriticScore": 81,
-    "recommendations": 1991,
-    "lastUpdated": "7/24/2025, 11:04:14 AM"
+    "recommendations": 1992,
+    "lastUpdated": "7/25/2025, 11:03:23 AM"
   },
   {
     "steamId": "553850",
@@ -3346,8 +3346,8 @@
       2765950
     ],
     "achievements": 38,
-    "recommendations": 753361,
-    "lastUpdated": "7/24/2025, 11:04:24 AM"
+    "recommendations": 753474,
+    "lastUpdated": "7/25/2025, 11:03:33 AM"
   },
   {
     "steamId": "578080",
@@ -3396,8 +3396,8 @@
     "isFree": true,
     "dlc": [],
     "achievements": 37,
-    "recommendations": 1744049,
-    "lastUpdated": "7/24/2025, 11:04:29 AM"
+    "recommendations": 1744123,
+    "lastUpdated": "7/25/2025, 11:03:38 AM"
   },
   {
     "steamId": "582010",
@@ -3464,8 +3464,8 @@
     ],
     "achievements": 100,
     "metacriticScore": 88,
-    "recommendations": 304007,
-    "lastUpdated": "7/24/2025, 11:04:33 AM"
+    "recommendations": 304042,
+    "lastUpdated": "7/25/2025, 11:03:42 AM"
   },
   {
     "steamId": "594650",
@@ -3517,10 +3517,10 @@
     },
     "price": {
       "currency": "CNY",
-      "initial": 128,
-      "final": 128,
-      "discount_percent": 0,
-      "formatted": "¥ 128.00"
+      "initial": 168,
+      "final": 84,
+      "discount_percent": 50,
+      "formatted": "¥ 84.00"
     },
     "isFree": false,
     "dlc": [
@@ -3532,8 +3532,8 @@
     ],
     "achievements": 36,
     "metacriticScore": 81,
-    "recommendations": 195990,
-    "lastUpdated": "7/24/2025, 11:04:41 AM"
+    "recommendations": 196025,
+    "lastUpdated": "7/25/2025, 11:03:51 AM"
   },
   {
     "steamId": "632360",
@@ -3601,8 +3601,8 @@
     ],
     "achievements": 149,
     "metacriticScore": 85,
-    "recommendations": 215158,
-    "lastUpdated": "7/24/2025, 11:04:45 AM"
+    "recommendations": 215202,
+    "lastUpdated": "7/25/2025, 11:03:56 AM"
   },
   {
     "steamId": "648800",
@@ -3663,8 +3663,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 104,
-    "recommendations": 299287,
-    "lastUpdated": "7/24/2025, 11:04:50 AM"
+    "recommendations": 299348,
+    "lastUpdated": "7/25/2025, 11:04:00 AM"
   },
   {
     "steamId": "739630",
@@ -3726,8 +3726,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 54,
-    "recommendations": 633893,
-    "lastUpdated": "7/24/2025, 11:04:58 AM"
+    "recommendations": 633995,
+    "lastUpdated": "7/25/2025, 11:04:08 AM"
   },
   {
     "steamId": "755790",
@@ -3774,7 +3774,7 @@
     "dlc": [],
     "achievements": 0,
     "recommendations": 713,
-    "lastUpdated": "7/24/2025, 11:05:02 AM"
+    "lastUpdated": "7/25/2025, 11:04:12 AM"
   },
   {
     "steamId": "814380",
@@ -3836,8 +3836,8 @@
     "dlc": [],
     "achievements": 34,
     "metacriticScore": 88,
-    "recommendations": 238654,
-    "lastUpdated": "7/24/2025, 11:05:05 AM"
+    "recommendations": 238725,
+    "lastUpdated": "7/25/2025, 11:04:15 AM"
   },
   {
     "steamId": "892970",
@@ -3903,8 +3903,8 @@
       1620250
     ],
     "achievements": 0,
-    "recommendations": 427965,
-    "lastUpdated": "7/24/2025, 11:05:16 AM"
+    "recommendations": 428002,
+    "lastUpdated": "7/25/2025, 11:04:25 AM"
   },
   {
     "steamId": "899770",
@@ -3973,8 +3973,8 @@
     ],
     "achievements": 0,
     "metacriticScore": 80,
-    "recommendations": 100128,
-    "lastUpdated": "7/24/2025, 11:05:20 AM"
+    "recommendations": 100136,
+    "lastUpdated": "7/25/2025, 11:04:29 AM"
   },
   {
     "steamId": "901583",
@@ -4012,8 +4012,8 @@
     "dlc": [],
     "achievements": 55,
     "metacriticScore": 90,
-    "recommendations": 156839,
-    "lastUpdated": "7/24/2025, 11:05:23 AM"
+    "recommendations": 156893,
+    "lastUpdated": "7/25/2025, 11:04:34 AM"
   },
   {
     "steamId": "945360",
@@ -4074,8 +4074,8 @@
     "dlc": [],
     "achievements": 33,
     "metacriticScore": 85,
-    "recommendations": 620327,
-    "lastUpdated": "7/24/2025, 11:05:31 AM"
+    "recommendations": 620424,
+    "lastUpdated": "7/25/2025, 11:04:44 AM"
   },
   {
     "steamId": "990080",
@@ -4133,8 +4133,8 @@
     ],
     "achievements": 45,
     "metacriticScore": 83,
-    "recommendations": 236253,
-    "lastUpdated": "7/24/2025, 11:05:35 AM"
+    "recommendations": 236331,
+    "lastUpdated": "7/25/2025, 11:04:48 AM"
   },
   {
     "steamId": "1063730",
@@ -4199,8 +4199,8 @@
       2487480
     ],
     "achievements": 133,
-    "recommendations": 245946,
-    "lastUpdated": "7/24/2025, 11:05:39 AM"
+    "recommendations": 245959,
+    "lastUpdated": "7/25/2025, 11:04:51 AM"
   },
   {
     "steamId": "1085660",
@@ -4263,8 +4263,8 @@
     ],
     "achievements": 23,
     "metacriticScore": 83,
-    "recommendations": 129125,
-    "lastUpdated": "7/24/2025, 11:05:49 AM"
+    "recommendations": 129169,
+    "lastUpdated": "7/25/2025, 11:04:59 AM"
   },
   {
     "steamId": "1086940",
@@ -4330,8 +4330,8 @@
     ],
     "achievements": 54,
     "metacriticScore": 96,
-    "recommendations": 680293,
-    "lastUpdated": "7/24/2025, 11:05:53 AM"
+    "recommendations": 680467,
+    "lastUpdated": "7/25/2025, 11:05:03 AM"
   },
   {
     "steamId": "1089350",
@@ -4388,23 +4388,23 @@
     "achievements": 50,
     "metacriticScore": 74,
     "recommendations": 46757,
-    "lastUpdated": "7/24/2025, 11:05:57 AM"
+    "lastUpdated": "7/25/2025, 11:05:06 AM"
   },
   {
     "steamId": "1091500",
     "name": "赛博朋克 2077",
     "type": "game",
     "description": "《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。",
-    "fullDescription": "<h1>《赛博朋克 2077：终极版》</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/CP77UE_Banner_schinese.jpg?t=1753188119\" /></div></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/520b6f8c6c6d586e30ea769b044f604f.avif?t=1753188119\" /></div></p><p class=\"bb_paragraph\">《赛博朋克 2077》的舞台位于大都会夜之城，是一款在开放世界动作冒险角色扮演游戏。您扮演一位赛博朋克雇佣兵, 身陷绝地求生、不成功便成仁的险境。经过改进的同时更有全新免费额外内容加入。接受任务、累积声望、解锁升级，自定义您的人物和玩法。玩家经营的人际关系和做出的选择将会改变剧情的走向和身边的世界。这里是传奇诞生的地方。您的传奇又在哪里？</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/37fec62cc42fe5c0b62e18db71938541.avif?t=1753188119\" /></div></p><p class=\"bb_paragraph\">2.3 更新以前所未有的方式探索夜之城！</p><p class=\"bb_paragraph\">多亏了智动驾驶™和德拉曼的出租车服务，你才能在行程中解放双手，欣赏一路美景。接受新的任务，获取绝世好车，使用功能扩展后的晶彩车衣和调色通技术装扮载具，在照片模式里体验更加详尽的控制和自定义！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_CREATE_YOUR_OWN_CYBERPUNK_ZHS.png?t=1753188119\" /></div></p><p class=\"bb_paragraph\">创造属于你的赛博朋克</p><p class=\"bb_paragraph\">装备赛博增强科技，化身城市法外之徒，在夜之城的街头谱写属于你的传奇。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_EXPLORE_THE_CITY_OF_FUTURE_ZHS.png?t=1753188119\" /></div></p><p class=\"bb_paragraph\">探索未来都市</p><p class=\"bb_paragraph\">夜之城充斥着丰富的活动，看不完的风景，以及各式各样的人。去哪里，什么时候去，怎么去，全都取决于你自己。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_BUILD_YOUR_LEGEND_ZHS.png?t=1753188119\" /></div></p><p class=\"bb_paragraph\">打造您的传奇</p><p class=\"bb_paragraph\">展开大胆的冒险，和令人难忘的角色起建立亲密关系。您作出的选择决定了他们最终的命运。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_EQUIPPED_WITH_IMPROVEMENTS_ZHS.png?t=1753188119\" /></div></p><p class=\"bb_paragraph\">推出改良内容</p><p class=\"bb_paragraph\">体验《赛博朋克 2077》在游戏性、经济系统、城市、地图使用等方面的大量改良内容。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_INCLUDES_FREE_ADDITIONAL_CONTENT_ZHS.png?t=1753188119\" /></div></p><p class=\"bb_paragraph\">领取专属道具</p><p class=\"bb_paragraph\">由CD PROJEKT RED游戏激发灵感而来的游戏内好物及数字奖励，此为“我的奖励”的一部分。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">前往 </p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/06._Social-Media_ZHS.png?t=1753188119\" /></div></p>",
+    "fullDescription": "<h1>《赛博朋克 2077：终极版》</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/CP77UE_Banner_schinese.jpg?t=1753355628\" /></div></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/520b6f8c6c6d586e30ea769b044f604f.avif?t=1753355628\" /></div></p><p class=\"bb_paragraph\">《赛博朋克 2077》的舞台位于大都会夜之城，是一款在开放世界动作冒险角色扮演游戏。您扮演一位赛博朋克雇佣兵, 身陷绝地求生、不成功便成仁的险境。经过改进的同时更有全新免费额外内容加入。接受任务、累积声望、解锁升级，自定义您的人物和玩法。玩家经营的人际关系和做出的选择将会改变剧情的走向和身边的世界。这里是传奇诞生的地方。您的传奇又在哪里？</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/37fec62cc42fe5c0b62e18db71938541.avif?t=1753355628\" /></div></p><p class=\"bb_paragraph\">2.3 更新以前所未有的方式探索夜之城！</p><p class=\"bb_paragraph\">多亏了智动驾驶™和德拉曼的出租车服务，你才能在行程中解放双手，欣赏一路美景。接受新的任务，获取绝世好车，使用功能扩展后的晶彩车衣和调色通技术装扮载具，在照片模式里体验更加详尽的控制和自定义！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_CREATE_YOUR_OWN_CYBERPUNK_ZHS.png?t=1753355628\" /></div></p><p class=\"bb_paragraph\">创造属于你的赛博朋克</p><p class=\"bb_paragraph\">装备赛博增强科技，化身城市法外之徒，在夜之城的街头谱写属于你的传奇。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_EXPLORE_THE_CITY_OF_FUTURE_ZHS.png?t=1753355628\" /></div></p><p class=\"bb_paragraph\">探索未来都市</p><p class=\"bb_paragraph\">夜之城充斥着丰富的活动，看不完的风景，以及各式各样的人。去哪里，什么时候去，怎么去，全都取决于你自己。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_BUILD_YOUR_LEGEND_ZHS.png?t=1753355628\" /></div></p><p class=\"bb_paragraph\">打造您的传奇</p><p class=\"bb_paragraph\">展开大胆的冒险，和令人难忘的角色起建立亲密关系。您作出的选择决定了他们最终的命运。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_EQUIPPED_WITH_IMPROVEMENTS_ZHS.png?t=1753355628\" /></div></p><p class=\"bb_paragraph\">推出改良内容</p><p class=\"bb_paragraph\">体验《赛博朋克 2077》在游戏性、经济系统、城市、地图使用等方面的大量改良内容。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/NGU_INCLUDES_FREE_ADDITIONAL_CONTENT_ZHS.png?t=1753355628\" /></div></p><p class=\"bb_paragraph\">领取专属道具</p><p class=\"bb_paragraph\">由CD PROJEKT RED游戏激发灵感而来的游戏内好物及数字奖励，此为“我的奖励”的一部分。</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">前往 </p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/06._Social-Media_ZHS.png?t=1753355628\" /></div></p>",
     "developer": "CD PROJEKT RED",
     "publisher": "CD PROJEKT RED",
     "releaseDate": "2020 年 12 月 10 日",
     "comingSoon": false,
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/fe7e6ea002a999303ffd74acaf3d65454dee266f/header_alt_assets_8_schinese.jpg?t=1753188119",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/fe7e6ea002a999303ffd74acaf3d65454dee266f/header_alt_assets_8_schinese.jpg?t=1753355628",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1753188119",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1753188119",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.600x338.jpg?t=1753188119"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1753355628",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1753355628",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.600x338.jpg?t=1753355628"
     ],
     "movies": [
       {
@@ -4453,8 +4453,8 @@
     ],
     "achievements": 57,
     "metacriticScore": 86,
-    "recommendations": 772041,
-    "lastUpdated": "7/24/2025, 11:06:05 AM"
+    "recommendations": 772348,
+    "lastUpdated": "7/25/2025, 11:05:15 AM"
   },
   {
     "steamId": "1097150",
@@ -4500,8 +4500,8 @@
     "dlc": [],
     "achievements": 34,
     "metacriticScore": 80,
-    "recommendations": 415860,
-    "lastUpdated": "7/24/2025, 11:06:09 AM"
+    "recommendations": 415852,
+    "lastUpdated": "7/25/2025, 11:05:20 AM"
   },
   {
     "steamId": "1116170",
@@ -4565,7 +4565,7 @@
     "dlc": [],
     "achievements": 31,
     "recommendations": 266,
-    "lastUpdated": "7/24/2025, 11:06:13 AM"
+    "lastUpdated": "7/25/2025, 11:05:23 AM"
   },
   {
     "steamId": "1172470",
@@ -4623,7 +4623,7 @@
     "achievements": 12,
     "metacriticScore": 88,
     "recommendations": 1557,
-    "lastUpdated": "7/24/2025, 11:06:23 AM"
+    "lastUpdated": "7/25/2025, 11:05:32 AM"
   },
   {
     "steamId": "1174180",
@@ -4677,32 +4677,32 @@
     "price": {
       "currency": "CNY",
       "initial": 279,
-      "final": 69.75,
-      "discount_percent": 75,
-      "formatted": "¥ 69.75"
+      "final": 279,
+      "discount_percent": 0,
+      "formatted": "¥ 279.00"
     },
     "isFree": false,
     "dlc": [],
     "achievements": 51,
     "metacriticScore": 93,
-    "recommendations": 699610,
-    "lastUpdated": "7/24/2025, 11:06:27 AM"
+    "recommendations": 700118,
+    "lastUpdated": "7/25/2025, 11:05:36 AM"
   },
   {
     "steamId": "1203220",
     "name": "永劫无间",
     "type": "game",
     "description": "风靡全球的多人动作竞技大作，现已永久免费！来这里舞利刃、端火枪，享受远近结合的华丽战斗！驾驭风沙、机甲，化身野兽、大佛，体验风格迥异的英雄能力！在这场60人生存竞技中成为最后的赢家！",
-    "fullDescription": "<h1>免费开玩</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/免费了-中文.jpg?t=1753094932\" /></div></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中1.png?t=1753094932\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/MELEE-FOCUSED_COMBAT.gif?t=1753094932\" /></div></p><p class=\"bb_paragraph\">独创战斗系统、全交互地图、远近武器爽快交锋……在瞬息万变的60人战场中活到最后，畅享高自由度的无拘战斗！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中2.png?t=1753094932\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/BOUNDLESS_MOVEMENT.gif?t=1753094932\" /></div></p><p class=\"bb_paragraph\">利用飞索，翻飞于树林与屋瓴之间；埋伏檐上，给路过的敌人一个出其不意的惊喜。去大胆探索这神秘而危险的战场！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中3.png?t=1753094932\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/YOUR_BUILD_YOUR_PLAYSTYLE.gif?t=1753094932\" /></div></p><p class=\"bb_paragraph\">选取风格各异的英雄，定制独特的外观风格，加上自由搭配的不同技能、招式各不相同的武器，去书写独属于你的武学宗师传奇！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中4.png?t=1753094932\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/EASTERN_LEGENDS.gif?t=1753094932\" /></div></p><p class=\"bb_paragraph\">游历美妙绝伦却又危机四伏的聚窟洲和火罗国，在壮美的自然风景与饱含文化底蕴的人文景观中作战。</p>",
+    "fullDescription": "<h1>免费开玩</h1><p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/bb25a81b65a475ac7b24e5b6655d82d9.avif?t=1753341693\" data-has-big /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/免费了-中文.jpg?t=1753341693\" /></div></p></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中1.png?t=1753341693\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/MELEE-FOCUSED_COMBAT.gif?t=1753341693\" /></div></p><p class=\"bb_paragraph\">独创战斗系统、全交互地图、远近武器爽快交锋……在瞬息万变的60人战场中活到最后，畅享高自由度的无拘战斗！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中2.png?t=1753341693\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/BOUNDLESS_MOVEMENT.gif?t=1753341693\" /></div></p><p class=\"bb_paragraph\">利用飞索，翻飞于树林与屋瓴之间；埋伏檐上，给路过的敌人一个出其不意的惊喜。去大胆探索这神秘而危险的战场！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中3.png?t=1753341693\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/YOUR_BUILD_YOUR_PLAYSTYLE.gif?t=1753341693\" /></div></p><p class=\"bb_paragraph\">选取风格各异的英雄，定制独特的外观风格，加上自由搭配的不同技能、招式各不相同的武器，去书写独属于你的武学宗师传奇！</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/中4.png?t=1753341693\" /></div><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/EASTERN_LEGENDS.gif?t=1753341693\" /></div></p><p class=\"bb_paragraph\">游历美妙绝伦却又危机四伏的聚窟洲和火罗国，在壮美的自然风景与饱含文化底蕴的人文景观中作战。</p><p class=\"bb_paragraph\"></p>",
     "developer": "24 Entertainment",
     "publisher": "NetEase Games Global",
     "releaseDate": "2021 年 8 月 12 日",
     "comingSoon": false,
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/37078d64215091856f28826c662e0fbdce32cc71/header_schinese.jpg?t=1753094932",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/37078d64215091856f28826c662e0fbdce32cc71/header_schinese.jpg?t=1753341693",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_7c80e5e90fc91b6aa44055878b7f76770fa9dc9d.600x338.jpg?t=1753094932",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_7c9fb88fa0aae74107c8bf7d2e4c8bdd400aa1c5.600x338.jpg?t=1753094932",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_841eaef35b52960a4ea832b6849b3595c156d00a.600x338.jpg?t=1753094932"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_7c80e5e90fc91b6aa44055878b7f76770fa9dc9d.600x338.jpg?t=1753341693",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_7c9fb88fa0aae74107c8bf7d2e4c8bdd400aa1c5.600x338.jpg?t=1753341693",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_841eaef35b52960a4ea832b6849b3595c156d00a.600x338.jpg?t=1753341693"
     ],
     "movies": [
       {
@@ -4747,8 +4747,8 @@
       2732000
     ],
     "achievements": 40,
-    "recommendations": 196236,
-    "lastUpdated": "7/24/2025, 11:06:31 AM"
+    "recommendations": 196248,
+    "lastUpdated": "7/25/2025, 11:05:41 AM"
   },
   {
     "steamId": "1222670",
@@ -4811,8 +4811,8 @@
       3415990
     ],
     "achievements": 0,
-    "recommendations": 81168,
-    "lastUpdated": "7/24/2025, 11:06:40 AM"
+    "recommendations": 81170,
+    "lastUpdated": "7/25/2025, 11:05:51 AM"
   },
   {
     "steamId": "1238810",
@@ -4875,8 +4875,8 @@
       1264171
     ],
     "achievements": 21,
-    "recommendations": 221776,
-    "lastUpdated": "7/24/2025, 11:06:43 AM"
+    "recommendations": 221819,
+    "lastUpdated": "7/25/2025, 11:05:56 AM"
   },
   {
     "steamId": "1240440",
@@ -4933,8 +4933,8 @@
       1708091
     ],
     "achievements": 144,
-    "recommendations": 33083,
-    "lastUpdated": "7/24/2025, 11:06:47 AM"
+    "recommendations": 33086,
+    "lastUpdated": "7/25/2025, 11:06:00 AM"
   },
   {
     "steamId": "1245620",
@@ -4944,7 +4944,7 @@
     "fullDescription": "<h1>艾尔登法环 黄金树幽影版</h1><p>本商品包含下列内容：<br>- 艾尔登法环（游戏本体）<br>- 艾尔登法环 黄金树幽影（资料片）*</p><br><h1>艾尔登法环 黄金树幽影 数字豪华版</h1><p>本商品包含下列内容：<br>- 艾尔登法环（游戏本体）<br>- 艾尔登法环 黄金树幽影（资料片）*<br>- 艾尔登法环 数字美术书＆数字原声带<br>- 艾尔登法环 黄金树幽影 数字美术书＆数字原声带*</p><br><h1>关于游戏</h1><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/extras/ER_Steam_Gif_616x260.gif?t=1748630546\" /></div><br>・充满刺激的辽阔世界<br>无缝连接的辽阔世界──尽情探索状况多变的开放场景，构造复杂、立体的巨大地下迷宫。<br>在探索新发现时感到欣喜，在征服强敌时感到成就感十足，丰富内容等你体会。<br><br>・专属于你的角色<br>不只能自订操纵角色的外表，更能自行搭配武器、装备，与魔法──<br>想成为力量取胜的顽强战士，或选择在魔法领域登峰造极，都能照自己的游玩风格决定。<br><br>・源自神话的群像剧<br>片段破碎，却又多彩的故事──以“交界地”为舞台登场的角色们各有主张，<br>于是在利害关系之下谱成的群像剧，就此展开。<br><br>・与其他玩家维持非即时连系的独特系统<br>除了能与其他玩家一同游玩的多人联机游玩以外，<br>本游戏也有非即时联机系统，能借此得知其他玩家的存在。",
     "developer": "FromSoftware, Inc.",
     "publisher": "FromSoftware, Inc.",
-    "releaseDate": "2022 年 2 月 24 日",
+    "releaseDate": "2022 年 2 月 25 日",
     "comingSoon": false,
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1748630546",
     "screenshots": [
@@ -4999,8 +4999,8 @@
     ],
     "achievements": 42,
     "metacriticScore": 94,
-    "recommendations": 777413,
-    "lastUpdated": "7/24/2025, 11:06:55 AM"
+    "recommendations": 777649,
+    "lastUpdated": "7/25/2025, 11:06:09 AM"
   },
   {
     "steamId": "1326470",
@@ -5063,8 +5063,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 32,
-    "recommendations": 233395,
-    "lastUpdated": "7/24/2025, 11:06:59 AM"
+    "recommendations": 233510,
+    "lastUpdated": "7/25/2025, 11:06:14 AM"
   },
   {
     "steamId": "1491000",
@@ -5125,24 +5125,24 @@
       3556540
     ],
     "achievements": 33,
-    "recommendations": 710,
-    "lastUpdated": "7/24/2025, 11:07:04 AM"
+    "recommendations": 711,
+    "lastUpdated": "7/25/2025, 11:06:19 AM"
   },
   {
     "steamId": "1517290",
     "name": "《战地风云™ 2042》",
     "type": "game",
     "description": "《战地风云™ 2042》是一款第一人称射击游戏，本作将带领玩家重返该系列标志性的全面战争。",
-    "fullDescription": "<h1>《战地风云™ 2042》精英版</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/Steam_BF2042_S5_Year2_Comparison_table_CN.png?t=1748912112\" /></div><br><br>入手《战地风云™ 2042》的最终版本。《战地风云 2042》精英版内容丰富，价值满满；内含：<br><ul class=\"bb_ul\"><li>解锁 4 个赛季的精彩内容：在超过 17 张地图上战斗，使用超过 35 种武器，选用 14 位专家进行部署<br></li><li>“失落的世界”史诗外观同捆包*内含：<br><ul class=\"bb_ul\"><li>史诗级“遗弃”拉奥专家套装<br></li><li>史诗级“饥饿秃鹰”载具皮肤<br></li><li>史诗级“驱逐者”武器皮肤</li></ul></li></ul><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/Steam_BF2042_S5_Year2_Beautyshot_CN.png?t=1748912112\" /></div><br><br>本游戏内含自愿使用虚拟点数进行的游戏内购，虚拟点数可用于获取游戏内虚拟物品。</p><br><h1>关于游戏</h1><h2 class=\"bb_tag\">欢迎来到 2042</h2>《战地风云™ 2042》是一款第一人称射击游戏，本作将带领玩家重返该系列标志性的全面战争。运用尖端武器，参与紧张激烈、身临其境的多人模式战斗。<br><br>带领团队在 2042 年的世界和《战地风云》系列经典地图上参与大规模全面战争和近距离战斗，一起取得胜利。在以兵种为基础的游戏模式中找到自己的游戏风格，并体验全面升级的征服和突破模式。探索 Battlefield Portal（战地风云门户），玩家可以在这个平台中探索、创建和分享《战地风云》过去和现在的战斗体验。<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/BF2042_Accolades_Steam_610x456.jpg?t=1748912112\" /></div><h2 class=\"bb_tag\">ALL-OUT WARFARE</h2><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_01_ZH_CN.gif?t=1748912112\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_02_ZH_CN.gif?t=1748912112\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_03_ZH_CN.gif?t=1748912112\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_04_ZH_CN.gif?t=1748912112\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_05_ZH_CN.jpg?t=1748912112\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_06_ZH_CN.jpg?t=1748912112\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_07_ZH_CN.gif?t=1748912112\" /></div><br><br>本游戏内含自愿的虚拟货币内购，虚拟点数可用于获取游戏内虚拟物品。",
+    "fullDescription": "<h1>《战地风云™ 2042》精英版</h1><p><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/Steam_BF2042_S5_Year2_Comparison_table_CN.png?t=1753371763\" /></div><br><br>入手《战地风云™ 2042》的最终版本。《战地风云 2042》精英版内容丰富，价值满满；内含：<br><ul class=\"bb_ul\"><li>解锁 4 个赛季的精彩内容：在超过 17 张地图上战斗，使用超过 35 种武器，选用 14 位专家进行部署<br></li><li>“失落的世界”史诗外观同捆包*内含：<br><ul class=\"bb_ul\"><li>史诗级“遗弃”拉奥专家套装<br></li><li>史诗级“饥饿秃鹰”载具皮肤<br></li><li>史诗级“驱逐者”武器皮肤</li></ul></li></ul><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/Steam_BF2042_S5_Year2_Beautyshot_CN.png?t=1753371763\" /></div><br><br>本游戏内含自愿使用虚拟点数进行的游戏内购，虚拟点数可用于获取游戏内虚拟物品。</p><br><h1>关于游戏</h1><h2 class=\"bb_tag\">欢迎来到 2042</h2>《战地风云™ 2042》是一款第一人称射击游戏，本作将带领玩家重返该系列标志性的全面战争。运用尖端武器，参与紧张激烈、身临其境的多人模式战斗。<br><br>带领团队在 2042 年的世界和《战地风云》系列经典地图上参与大规模全面战争和近距离战斗，一起取得胜利。在以兵种为基础的游戏模式中找到自己的游戏风格，并体验全面升级的征服和突破模式。探索 Battlefield Portal（战地风云门户），玩家可以在这个平台中探索、创建和分享《战地风云》过去和现在的战斗体验。<br><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/BF2042_Accolades_Steam_610x456.jpg?t=1753371763\" /></div><h2 class=\"bb_tag\">ALL-OUT WARFARE</h2><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_01_ZH_CN.gif?t=1753371763\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_02_ZH_CN.gif?t=1753371763\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_03_ZH_CN.gif?t=1753371763\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_04_ZH_CN.gif?t=1753371763\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_05_ZH_CN.jpg?t=1753371763\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_06_ZH_CN.jpg?t=1753371763\" /></div><br><div class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/extras/EA_BF42_STEAM_PC_07_ZH_CN.gif?t=1753371763\" /></div><br><br>本游戏内含自愿的虚拟货币内购，虚拟点数可用于获取游戏内虚拟物品。",
     "developer": "DICE",
     "publisher": "Electronic Arts",
     "releaseDate": "2021 年 11 月 19 日",
     "comingSoon": false,
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header_schinese.jpg?t=1748912112",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header_schinese.jpg?t=1753371763",
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1/ss_a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1.600x338.jpg?t=1748912112",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/c080841fe6e2c58dabf5c955cc90bcf58239c453/ss_c080841fe6e2c58dabf5c955cc90bcf58239c453.600x338.jpg?t=1748912112",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54/ss_6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54.600x338.jpg?t=1748912112"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1/ss_a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1.600x338.jpg?t=1753371763",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/c080841fe6e2c58dabf5c955cc90bcf58239c453/ss_c080841fe6e2c58dabf5c955cc90bcf58239c453.600x338.jpg?t=1753371763",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54/ss_6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54.600x338.jpg?t=1753371763"
     ],
     "movies": [
       {
@@ -5185,8 +5185,8 @@
       3269070
     ],
     "achievements": 34,
-    "recommendations": 239524,
-    "lastUpdated": "7/24/2025, 11:07:13 AM"
+    "recommendations": 239616,
+    "lastUpdated": "7/25/2025, 11:06:28 AM"
   },
   {
     "steamId": "1623730",
@@ -5252,8 +5252,8 @@
       2771110
     ],
     "achievements": 56,
-    "recommendations": 328157,
-    "lastUpdated": "7/24/2025, 11:07:20 AM"
+    "recommendations": 328257,
+    "lastUpdated": "7/25/2025, 11:06:37 AM"
   },
   {
     "steamId": "1811260",
@@ -5302,8 +5302,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 39,
-    "recommendations": 124328,
-    "lastUpdated": "7/24/2025, 11:07:34 AM"
+    "recommendations": 124325,
+    "lastUpdated": "7/25/2025, 11:06:50 AM"
   },
   {
     "steamId": "1938090",
@@ -5363,8 +5363,8 @@
       3159190
     ],
     "achievements": 107,
-    "recommendations": 392331,
-    "lastUpdated": "7/24/2025, 11:07:37 AM"
+    "recommendations": 392373,
+    "lastUpdated": "7/25/2025, 11:06:55 AM"
   },
   {
     "steamId": "1966720",
@@ -5419,8 +5419,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 395984,
-    "lastUpdated": "7/24/2025, 11:07:47 AM"
+    "recommendations": 396036,
+    "lastUpdated": "7/25/2025, 11:07:03 AM"
   },
   {
     "steamId": "2186680",
@@ -5490,8 +5490,8 @@
       3650800
     ],
     "achievements": 106,
-    "recommendations": 23182,
-    "lastUpdated": "7/24/2025, 11:07:52 AM"
+    "recommendations": 23210,
+    "lastUpdated": "7/25/2025, 11:07:07 AM"
   },
   {
     "steamId": "2246340",
@@ -5559,8 +5559,8 @@
       3410840
     ],
     "achievements": 50,
-    "recommendations": 161812,
-    "lastUpdated": "7/24/2025, 11:07:55 AM"
+    "recommendations": 162050,
+    "lastUpdated": "7/25/2025, 11:07:12 AM"
   },
   {
     "steamId": "2358720",
@@ -5625,8 +5625,8 @@
       3288260
     ],
     "achievements": 81,
-    "recommendations": 845066,
-    "lastUpdated": "7/24/2025, 11:08:05 AM"
+    "recommendations": 845587,
+    "lastUpdated": "7/25/2025, 11:07:21 AM"
   },
   {
     "steamId": "3164500",
@@ -5690,8 +5690,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 11,
-    "recommendations": 203017,
-    "lastUpdated": "7/24/2025, 11:08:14 AM"
+    "recommendations": 203205,
+    "lastUpdated": "7/25/2025, 11:07:29 AM"
   },
   {
     "steamId": "3241660",
@@ -5752,7 +5752,7 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 177532,
-    "lastUpdated": "7/24/2025, 11:08:21 AM"
+    "recommendations": 177801,
+    "lastUpdated": "7/25/2025, 11:07:38 AM"
   }
 ]
