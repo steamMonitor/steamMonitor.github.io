@@ -45,8 +45,8 @@
     "dlc": [],
     "achievements": 0,
     "metacriticScore": 88,
-    "recommendations": 161632,
-    "lastUpdated": "8/23/2025, 10:25:54 AM"
+    "recommendations": 161651,
+    "lastUpdated": "8/24/2025, 10:49:35 AM"
   },
   {
     "steamId": "70",
@@ -96,8 +96,8 @@
     ],
     "achievements": 0,
     "metacriticScore": 96,
-    "recommendations": 106833,
-    "lastUpdated": "8/23/2025, 10:25:58 AM"
+    "recommendations": 106860,
+    "lastUpdated": "8/24/2025, 10:49:40 AM"
   },
   {
     "steamId": "100",
@@ -145,8 +145,8 @@
     "dlc": [],
     "achievements": 0,
     "metacriticScore": 65,
-    "recommendations": 20067,
-    "lastUpdated": "8/23/2025, 10:26:01 AM"
+    "recommendations": 20070,
+    "lastUpdated": "8/24/2025, 10:49:44 AM"
   },
   {
     "steamId": "220",
@@ -209,8 +209,8 @@
     ],
     "achievements": 69,
     "metacriticScore": 96,
-    "recommendations": 184239,
-    "lastUpdated": "8/23/2025, 10:26:11 AM"
+    "recommendations": 184276,
+    "lastUpdated": "8/24/2025, 10:49:52 AM"
   },
   {
     "steamId": "240",
@@ -258,8 +258,8 @@
     "dlc": [],
     "achievements": 147,
     "metacriticScore": 88,
-    "recommendations": 128048,
-    "lastUpdated": "8/23/2025, 10:26:15 AM"
+    "recommendations": 128056,
+    "lastUpdated": "8/24/2025, 10:49:56 AM"
   },
   {
     "steamId": "320",
@@ -300,8 +300,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 9685,
-    "lastUpdated": "8/23/2025, 10:26:19 AM"
+    "recommendations": 9686,
+    "lastUpdated": "8/24/2025, 10:50:00 AM"
   },
   {
     "steamId": "340",
@@ -342,8 +342,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 10643,
-    "lastUpdated": "8/23/2025, 10:26:27 AM"
+    "recommendations": 10642,
+    "lastUpdated": "8/24/2025, 10:50:10 AM"
   },
   {
     "steamId": "400",
@@ -401,8 +401,8 @@
     ],
     "achievements": 15,
     "metacriticScore": 90,
-    "recommendations": 157358,
-    "lastUpdated": "8/23/2025, 10:26:31 AM"
+    "recommendations": 157388,
+    "lastUpdated": "8/24/2025, 10:50:14 AM"
   },
   {
     "steamId": "440",
@@ -460,8 +460,8 @@
     ],
     "achievements": 520,
     "metacriticScore": 92,
-    "recommendations": 43660,
-    "lastUpdated": "8/23/2025, 10:26:35 AM"
+    "recommendations": 43675,
+    "lastUpdated": "8/24/2025, 10:50:18 AM"
   },
   {
     "steamId": "550",
@@ -516,8 +516,8 @@
     "dlc": [],
     "achievements": 101,
     "metacriticScore": 89,
-    "recommendations": 751034,
-    "lastUpdated": "8/23/2025, 10:26:46 AM"
+    "recommendations": 751209,
+    "lastUpdated": "8/24/2025, 10:50:28 AM"
   },
   {
     "steamId": "730",
@@ -574,8 +574,8 @@
       2678630
     ],
     "achievements": 1,
-    "recommendations": 4639999,
-    "lastUpdated": "8/23/2025, 10:26:49 AM"
+    "recommendations": 4641358,
+    "lastUpdated": "8/24/2025, 10:50:32 AM"
   },
   {
     "steamId": "4000",
@@ -585,7 +585,7 @@
     "fullDescription": "Garry's Mod 是一个物理实验场。 与普通游戏不同，这款游戏并没有预定的目标或目的。 我们给您工具，您决定游戏内容。<br />\r\n\t\t\t您可以调出各种对象互相组合，创造新的道具，不论汽车、火箭、投石车还是连名字都没有的机器，一切都由您决定。<br />\r\n\t\t\t如果您对设计工程并不在行，也别担心！ 您还能把许多不同角色放在好笑的地方。",
     "developer": "Facepunch Studios",
     "publisher": "Valve",
-    "releaseDate": "2006 年 11 月 30 日",
+    "releaseDate": "2006 年 11 月 29 日",
     "comingSoon": false,
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1753371568",
     "screenshots": [
@@ -617,15 +617,15 @@
     "price": {
       "currency": "CNY",
       "initial": 36,
-      "final": 36,
-      "discount_percent": 0,
-      "formatted": "¥ 36.00"
+      "final": 21.6,
+      "discount_percent": 40,
+      "formatted": "¥ 21.60"
     },
     "isFree": false,
     "dlc": [],
     "achievements": 29,
-    "recommendations": 1011853,
-    "lastUpdated": "8/23/2025, 10:26:54 AM"
+    "recommendations": 1012011,
+    "lastUpdated": "8/24/2025, 10:50:35 AM"
   },
   {
     "steamId": "8930",
@@ -691,8 +691,8 @@
     ],
     "achievements": 286,
     "metacriticScore": 90,
-    "recommendations": 124950,
-    "lastUpdated": "8/23/2025, 10:27:03 AM"
+    "recommendations": 124968,
+    "lastUpdated": "8/24/2025, 10:50:46 AM"
   },
   {
     "steamId": "49520",
@@ -754,8 +754,8 @@
     ],
     "achievements": 75,
     "metacriticScore": 89,
-    "recommendations": 212754,
-    "lastUpdated": "8/23/2025, 10:27:07 AM"
+    "recommendations": 212774,
+    "lastUpdated": "8/24/2025, 10:50:50 AM"
   },
   {
     "steamId": "105600",
@@ -822,8 +822,8 @@
     ],
     "achievements": 115,
     "metacriticScore": 83,
-    "recommendations": 1141666,
-    "lastUpdated": "8/23/2025, 10:27:12 AM"
+    "recommendations": 1141879,
+    "lastUpdated": "8/24/2025, 10:50:53 AM"
   },
   {
     "steamId": "107410",
@@ -892,8 +892,8 @@
     ],
     "achievements": 123,
     "metacriticScore": 74,
-    "recommendations": 221297,
-    "lastUpdated": "8/23/2025, 10:27:21 AM"
+    "recommendations": 221325,
+    "lastUpdated": "8/24/2025, 10:51:02 AM"
   },
   {
     "steamId": "108600",
@@ -950,8 +950,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 297464,
-    "lastUpdated": "8/23/2025, 10:27:25 AM"
+    "recommendations": 297600,
+    "lastUpdated": "8/24/2025, 10:51:07 AM"
   },
   {
     "steamId": "218620",
@@ -1019,8 +1019,8 @@
     ],
     "achievements": 1328,
     "metacriticScore": 79,
-    "recommendations": 436714,
-    "lastUpdated": "8/23/2025, 10:27:29 AM"
+    "recommendations": 436738,
+    "lastUpdated": "8/24/2025, 10:51:11 AM"
   },
   {
     "steamId": "219990",
@@ -1090,8 +1090,8 @@
     ],
     "achievements": 185,
     "metacriticScore": 83,
-    "recommendations": 85094,
-    "lastUpdated": "8/23/2025, 10:27:38 AM"
+    "recommendations": 85110,
+    "lastUpdated": "8/24/2025, 10:51:20 AM"
   },
   {
     "steamId": "221100",
@@ -1101,7 +1101,7 @@
     "fullDescription": "<h1>DAYZ COOL &amp; DELUXE EDITIONS</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/d87982f27cd52c68e5cc9c976e40bb1d.avif?t=1755075303\" width=614 height=346 /></span></p></p><br><h1>关于游戏</h1><h2 class=\"bb_tag\" >这是属于你的故事</h2><br>《DayZ》是一款硬核生存游戏；游戏中玩家必须全力以赴，应对因感染病毒而狂暴失常的人群和其他幸存者，在劫后的世界中生存下来。《DayZ》游戏本体包括黑俄罗斯地形和利沃尼亚地形。<br><br>黑俄罗斯 – 典型的 DayZ 地形，背景设在后苏联国家黑俄罗斯，涵盖 230 平方公里基于实景的手工绘制环境。<br><br>利沃尼亚 – 该地图面积达 163 平方公里，布满了兴趣点，可让玩家在全新的环境中体验硬核生存的乐趣。玩家可在此检验自己的生存技能：冒险深入陌生的利沃尼亚地区，看看自己能在这前所未有的凶险世界中生存多久。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/24eb48d0857f9fe28d1951c2ebdd395f.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/24eb48d0857f9fe28d1951c2ebdd395f.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/24eb48d0857f9fe28d1951c2ebdd395f.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >结识其他玩家</h2><br>在任何给定的、时间，最多可容纳 60 位玩家；每个玩家都必须采取一切必要手段奋力生存。你可以结交朋友，也可以见人就杀，还可以建造基地，或许，还可能会因为一罐烘豆罐头而被出卖。使用 VOIP 与合得来的其他玩家进行语音交流。由于你总是命悬一线，因此，每一次遭遇都富有意义。时刻小心。保持警惕。不轻信任何人。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/ff2233d1d20cc266065d83286f516b4a.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/ff2233d1d20cc266065d83286f516b4a.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/ff2233d1d20cc266065d83286f516b4a.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >在黑俄罗斯生存下来</h2><br>你要担心的不仅仅是感染者——还有野生动物和恶劣的天气因素。设法躲开成群的狼和疯狂的熊瞎子，寻找栖身之所躲避严酷的大雨，并在黑暗中摸索光明。你还需要熟悉掌握复杂的生存机制，有效管理自己的饥饿度、口渴度、体温以及其他各方面的健康参数。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/775b0f9ec24a12538fbd1ff6d6d27fb5.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/775b0f9ec24a12538fbd1ff6d6d27fb5.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/775b0f9ec24a12538fbd1ff6d6d27fb5.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >搜刮战利品</h2><br>始终确保自己的装备处于良好状态。缝补损坏的衣服，制作简易装置，并探索看似死气沉沉的城市，以搜罗有价值的资源。修好一辆车，把它藏在你的秘密基地里，并通过精心布置的陷阱进行掩护。只要你有足够的勇气，就可以进入污染区，并睁大双眼搜寻有价值的战利品。必须注意穿好全套防化服和防毒面具，否则，你在那里坚持不了多久。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/5640ca620a5a6b146253438f9baff79c.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/5640ca620a5a6b146253438f9baff79c.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/5640ca620a5a6b146253438f9baff79c.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >抓准机会</h2><br>激烈的 PvP 行为可能随时随地会爆发，特别是在废弃军事基地等热点地区；玩家们都喜欢在这种地方展开惊心动魄的火拼。有些幸存者想要获得你身上的装备，而另一些只是把猎杀当成一种消遣。还有一些幸存者则可能更担心你会先开枪。学习如何战斗，并了解何时该放下尊严，走为上计。一颗子弹绝对可以改变一切。始终要提防自己的背后。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3df796c131dea85dd16dc9523d23bd44.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3df796c131dea85dd16dc9523d23bd44.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3df796c131dea85dd16dc9523d23bd44.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >安装修改模块</h2><br>前往 Steam 创意工坊，并寻找合适的自定义服务器。加入一个由志同道合的玩家所组成的活跃社区，并按照你的个人品味修改自己的 DayZ 体验。浏览数以千计粉丝自主创作的功能、地图以及武器——所有这些内容都可通过本游戏的启动器进行便捷管理。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/064bda472be8ab12d52c0a2a906d8e35.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/064bda472be8ab12d52c0a2a906d8e35.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/064bda472be8ab12d52c0a2a906d8e35.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >进入利沃尼亚。</h2><br>利沃尼亚充斥着大量野生动物、废墟以及隐秘地点，具有 163 平方公里的原野、森林和神秘景观，将为新来者以及 DayZ 老手们提供别具一格的新体验。<br> <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/aee633aaff8158c5a340f922392e8fbe.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/aee633aaff8158c5a340f922392e8fbe.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/aee633aaff8158c5a340f922392e8fbe.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >探索这片土地。</h2><br>大量令人心往神驰的未知地点，现在正静静等待着勇敢的冒险探索者们。探索阴森的沼泽、荒废的狩猎小屋、锯木厂和滥伐后的林地，以及存有剩余炸药的大型采石场。<br> <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/fd75c0e42e6951934ee301c25b153c05.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/fd75c0e42e6951934ee301c25b153c05.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/fd75c0e42e6951934ee301c25b153c05.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >循迹追熊。</h2><br>利沃尼亚的食物供给非常匮乏。如果想要生存下来，你必须学会如何在冷漠无情的荒野中狩猎、钓鱼和觅食。幸运的是，比起先前的末日浩劫，现在这片大陆充满了生机活力。<br> <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/6a32e1a0f6ba26a41948f34751694ddc.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/6a32e1a0f6ba26a41948f34751694ddc.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/6a32e1a0f6ba26a41948f34751694ddc.mp4?t=1755075303\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >发现秘密。</h2><br>探索南部区域，找到通往神秘地下建筑群的隐秘入口。当你在寻找通往那里的道路时，确保与好友结伴而行，相互照应。别忘记带上充足的补给物资，特别是一个手电筒。否则，当你进入那里后，很可能迷失在漆黑的迷宫式廊道中。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/f7400494f6bac69b6a2f214ffc9ca1dd.poster.avif?t=1755075303\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/f7400494f6bac69b6a2f214ffc9ca1dd.webm?t=1755075303\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/f7400494f6bac69b6a2f214ffc9ca1dd.mp4?t=1755075303\" type=\"video/mp4\"></video></span>",
     "developer": "Bohemia Interactive",
     "publisher": "Bohemia Interactive",
-    "releaseDate": "2018 年 12 月 13 日",
+    "releaseDate": "2018 年 12 月 14 日",
     "comingSoon": false,
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1755075303",
     "screenshots": [
@@ -1157,8 +1157,8 @@
       2622430
     ],
     "achievements": 13,
-    "recommendations": 362271,
-    "lastUpdated": "8/23/2025, 10:27:41 AM"
+    "recommendations": 362329,
+    "lastUpdated": "8/24/2025, 10:51:24 AM"
   },
   {
     "steamId": "227300",
@@ -1226,8 +1226,8 @@
     ],
     "achievements": 101,
     "metacriticScore": 79,
-    "recommendations": 703110,
-    "lastUpdated": "8/23/2025, 10:27:45 AM"
+    "recommendations": 703281,
+    "lastUpdated": "8/24/2025, 10:51:28 AM"
   },
   {
     "steamId": "227940",
@@ -1280,7 +1280,7 @@
     "dlc": [],
     "achievements": 0,
     "recommendations": 2366,
-    "lastUpdated": "8/23/2025, 10:27:55 AM"
+    "lastUpdated": "8/24/2025, 10:51:37 AM"
   },
   {
     "steamId": "230410",
@@ -1344,7 +1344,7 @@
     "achievements": 193,
     "metacriticScore": 69,
     "recommendations": 2888,
-    "lastUpdated": "8/23/2025, 10:27:59 AM"
+    "lastUpdated": "8/24/2025, 10:51:40 AM"
   },
   {
     "steamId": "236390",
@@ -1409,7 +1409,7 @@
     "achievements": 90,
     "metacriticScore": 81,
     "recommendations": 1938,
-    "lastUpdated": "8/23/2025, 10:28:04 AM"
+    "lastUpdated": "8/24/2025, 10:51:44 AM"
   },
   {
     "steamId": "239140",
@@ -1419,7 +1419,7 @@
     "fullDescription": "<h1>DYING LIGHT: THE BEAST</h1><p><p class=\"bb_paragraph\" >凯尔·克兰回来了！这位哈兰的英雄已消失了十多年，但他将在《消逝的光芒：困兽》中强势回归！ </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/extras/cc632080f340f723accaa16e434dc315.poster.avif?t=1755892508\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/extras/cc632080f340f723accaa16e434dc315.webm?t=1755892508\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/extras/cc632080f340f723accaa16e434dc315.mp4?t=1755892508\" type=\"video/mp4\"></video></span> </p><p class=\"bb_paragraph\" >《消逝的光芒：困兽》是一款激动人心的独立丧尸冒险，将继续讲述克兰的传奇故事！请查看专属产品页面以了解更多信息，并将游戏加入心愿单以获取最新动态！</p></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\" ><strong>重要：润色更新带来增强画面、重制原声、图形改良——拥有任何版本《消逝的光芒》的玩家都可以免费获得。</strong></p><p class=\"bb_paragraph\" ><strong>《消逝的光芒》精要版包含：</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >《消逝的光芒》（原版游戏）</p></li><li><p class=\"bb_paragraph\" >波扎克部落DLC</p></li><li><p class=\"bb_paragraph\" >餐馆和铁路站DLC</p></li><li><p class=\"bb_paragraph\" >终极幸存者礼包</p></li><li><p class=\"bb_paragraph\" >5周年礼包</p></li><li><p class=\"bb_paragraph\" >10周年礼包</p></li><li><p class=\"bb_paragraph\" >哈兰突击队礼包</p></li><li><p class=\"bb_paragraph\" >疯狂枪手礼包</p></li><li><p class=\"bb_paragraph\" >夜魔猎手礼包</p></li><li><p class=\"bb_paragraph\" >复古枪手礼包</p></li><li><p class=\"bb_paragraph\" >鼠战士礼包</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/extras/5fbe0b0c34faf6080c637c20e240b6b9.avif?t=1755892508\" width=616 height=478 /></span></p><p class=\"bb_paragraph\" >来自《Dead Island》和《Call of Juarez》的创作团队。荣获50多次业界奖项与提名。由于对游戏性的不懈追求，本作品为第一人称丧尸游戏设立了新的标杆。在推出后的七年时间中，我们仍旧在优化内容。今天，它已经成为有史以来最优秀的丧尸题材游戏之一。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/extras/299bff33b639e8c9d12186ae20232b95.poster.avif?t=1755892508\" width=616 height=254 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/extras/299bff33b639e8c9d12186ae20232b95.webm?t=1755892508\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/extras/299bff33b639e8c9d12186ae20232b95.mp4?t=1755892508\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >在丧尸病毒肆虐的城市里求生！执行秘密任务期间，发现你不得不做出艰难的选择。对上级的忠心能否胜过拯救幸存者的意愿？选择权在你手中……</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>广阔的开放世界</strong></p><p class=\"bb_paragraph\" >以前所未有的高自由度在城市里漫游，全面感受其独特的氛围。用跑酷技巧在建筑物间穿行，并到达遥远的区域。</p><p class=\"bb_paragraph\" ><strong>新意十足的战斗</strong></p><p class=\"bb_paragraph\" >在血腥的战斗中探索对抗敌人的无数种手段。配合环境对各类武器及技能进行搭配，以在战斗时获得优势。</p><p class=\"bb_paragraph\" ><strong>日夜更替系统</strong></p><p class=\"bb_paragraph\" >体验世界的昼夜剧变——日落之后，你将从猎手变成猎物。要么直面来袭的威胁，要么头也不回地拼命逃跑。</p><p class=\"bb_paragraph\" ><strong>4名玩家组队</strong></p><p class=\"bb_paragraph\" >在激动人心的合作模式中，与其他玩家携手并战以提高生存几率。组队完成故事战役，检测你们作为一个团队的实力。</p>",
     "developer": "Techland",
     "publisher": "Techland",
-    "releaseDate": "2015 年 1 月 27 日",
+    "releaseDate": "2015 年 1 月 26 日",
     "comingSoon": false,
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/65930adad99d8b1b82a40ce2cf7ab2d91bf5b0e1/header_alt_assets_38.jpg?t=1755892508",
     "screenshots": [
@@ -1477,8 +1477,8 @@
     ],
     "achievements": 78,
     "metacriticScore": 87,
-    "recommendations": 350329,
-    "lastUpdated": "8/23/2025, 10:28:17 AM"
+    "recommendations": 350446,
+    "lastUpdated": "8/24/2025, 10:51:58 AM"
   },
   {
     "steamId": "242760",
@@ -1536,8 +1536,8 @@
     "dlc": [],
     "achievements": 45,
     "metacriticScore": 83,
-    "recommendations": 543225,
-    "lastUpdated": "8/23/2025, 10:28:20 AM"
+    "recommendations": 543290,
+    "lastUpdated": "8/24/2025, 10:52:03 AM"
   },
   {
     "steamId": "251570",
@@ -1607,8 +1607,8 @@
       3635260
     ],
     "achievements": 43,
-    "recommendations": 260829,
-    "lastUpdated": "8/23/2025, 10:28:30 AM"
+    "recommendations": 260871,
+    "lastUpdated": "8/24/2025, 10:52:14 AM"
   },
   {
     "steamId": "252490",
@@ -1678,8 +1678,8 @@
     ],
     "achievements": 92,
     "metacriticScore": 69,
-    "recommendations": 1041328,
-    "lastUpdated": "8/23/2025, 10:28:34 AM"
+    "recommendations": 1041610,
+    "lastUpdated": "8/24/2025, 10:52:18 AM"
   },
   {
     "steamId": "255710",
@@ -1741,8 +1741,8 @@
     ],
     "achievements": 127,
     "metacriticScore": 85,
-    "recommendations": 209022,
-    "lastUpdated": "8/23/2025, 10:28:47 AM"
+    "recommendations": 209056,
+    "lastUpdated": "8/24/2025, 10:52:28 AM"
   },
   {
     "steamId": "261550",
@@ -1810,8 +1810,8 @@
     ],
     "achievements": 50,
     "metacriticScore": 77,
-    "recommendations": 208754,
-    "lastUpdated": "8/23/2025, 10:28:52 AM"
+    "recommendations": 208790,
+    "lastUpdated": "8/24/2025, 10:52:32 AM"
   },
   {
     "steamId": "271590",
@@ -1867,8 +1867,8 @@
     "dlc": [],
     "achievements": 77,
     "metacriticScore": 96,
-    "recommendations": 1834061,
-    "lastUpdated": "8/23/2025, 10:28:55 AM"
+    "recommendations": 1834254,
+    "lastUpdated": "8/24/2025, 10:52:36 AM"
   },
   {
     "steamId": "289070",
@@ -1929,8 +1929,8 @@
     ],
     "achievements": 320,
     "metacriticScore": 88,
-    "recommendations": 261772,
-    "lastUpdated": "8/23/2025, 10:29:03 AM"
+    "recommendations": 261820,
+    "lastUpdated": "8/24/2025, 10:52:45 AM"
   },
   {
     "steamId": "291480",
@@ -1987,7 +1987,7 @@
     ],
     "achievements": 67,
     "recommendations": 915,
-    "lastUpdated": "8/23/2025, 10:29:07 AM"
+    "lastUpdated": "8/24/2025, 10:52:49 AM"
   },
   {
     "steamId": "291550",
@@ -2048,7 +2048,7 @@
     ],
     "achievements": 65,
     "recommendations": 2893,
-    "lastUpdated": "8/23/2025, 10:29:12 AM"
+    "lastUpdated": "8/24/2025, 10:52:53 AM"
   },
   {
     "steamId": "292030",
@@ -2115,8 +2115,8 @@
     ],
     "achievements": 78,
     "metacriticScore": 93,
-    "recommendations": 783749,
-    "lastUpdated": "8/23/2025, 10:29:21 AM"
+    "recommendations": 783890,
+    "lastUpdated": "8/24/2025, 10:53:02 AM"
   },
   {
     "steamId": "304050",
@@ -2182,7 +2182,7 @@
     ],
     "achievements": 19,
     "recommendations": 968,
-    "lastUpdated": "8/23/2025, 10:29:25 AM"
+    "lastUpdated": "8/24/2025, 10:53:06 AM"
   },
   {
     "steamId": "304930",
@@ -2243,7 +2243,7 @@
     ],
     "achievements": 83,
     "recommendations": 7562,
-    "lastUpdated": "8/23/2025, 10:29:30 AM"
+    "lastUpdated": "8/24/2025, 10:53:11 AM"
   },
   {
     "steamId": "322330",
@@ -2315,8 +2315,8 @@
     ],
     "achievements": 0,
     "metacriticScore": 83,
-    "recommendations": 348072,
-    "lastUpdated": "8/23/2025, 10:29:39 AM"
+    "recommendations": 348124,
+    "lastUpdated": "8/24/2025, 10:53:19 AM"
   },
   {
     "steamId": "346110",
@@ -2387,8 +2387,8 @@
     ],
     "achievements": 32,
     "metacriticScore": 70,
-    "recommendations": 559669,
-    "lastUpdated": "8/23/2025, 10:29:43 AM"
+    "recommendations": 559740,
+    "lastUpdated": "8/24/2025, 10:53:24 AM"
   },
   {
     "steamId": "359550",
@@ -2443,8 +2443,8 @@
       417464
     ],
     "achievements": 0,
-    "recommendations": 1212613,
-    "lastUpdated": "8/23/2025, 10:29:46 AM"
+    "recommendations": 1212747,
+    "lastUpdated": "8/24/2025, 10:53:27 AM"
   },
   {
     "steamId": "377160",
@@ -2511,8 +2511,8 @@
     ],
     "achievements": 84,
     "metacriticScore": 84,
-    "recommendations": 265221,
-    "lastUpdated": "8/23/2025, 10:29:56 AM"
+    "recommendations": 265274,
+    "lastUpdated": "8/24/2025, 10:53:38 AM"
   },
   {
     "steamId": "381210",
@@ -2578,8 +2578,8 @@
       3261720
     ],
     "achievements": 282,
-    "recommendations": 602513,
-    "lastUpdated": "8/23/2025, 10:30:01 AM"
+    "recommendations": 602672,
+    "lastUpdated": "8/24/2025, 10:53:42 AM"
   },
   {
     "steamId": "386360",
@@ -2638,7 +2638,7 @@
     "achievements": 319,
     "metacriticScore": 83,
     "recommendations": 1404,
-    "lastUpdated": "8/23/2025, 10:30:05 AM"
+    "lastUpdated": "8/24/2025, 10:53:46 AM"
   },
   {
     "steamId": "413150",
@@ -2697,8 +2697,8 @@
     ],
     "achievements": 49,
     "metacriticScore": 89,
-    "recommendations": 787831,
-    "lastUpdated": "8/23/2025, 10:30:12 AM"
+    "recommendations": 788188,
+    "lastUpdated": "8/24/2025, 10:53:55 AM"
   },
   {
     "steamId": "417910",
@@ -2760,7 +2760,7 @@
     ],
     "achievements": 43,
     "recommendations": 321,
-    "lastUpdated": "8/23/2025, 10:30:16 AM"
+    "lastUpdated": "8/24/2025, 10:53:59 AM"
   },
   {
     "steamId": "431960",
@@ -2818,8 +2818,8 @@
       1790230
     ],
     "achievements": 17,
-    "recommendations": 850047,
-    "lastUpdated": "8/23/2025, 10:30:20 AM"
+    "recommendations": 850317,
+    "lastUpdated": "8/24/2025, 10:54:03 AM"
   },
   {
     "steamId": "433850",
@@ -2860,8 +2860,8 @@
     "dlc": [],
     "achievements": 0,
     "metacriticScore": 70,
-    "recommendations": 143762,
-    "lastUpdated": "8/23/2025, 10:30:30 AM"
+    "recommendations": 143759,
+    "lastUpdated": "8/24/2025, 10:54:11 AM"
   },
   {
     "steamId": "438100",
@@ -2916,7 +2916,7 @@
     "dlc": [],
     "achievements": 0,
     "recommendations": 149,
-    "lastUpdated": "8/23/2025, 10:30:34 AM"
+    "lastUpdated": "8/24/2025, 10:54:15 AM"
   },
   {
     "steamId": "444200",
@@ -2975,7 +2975,7 @@
     ],
     "achievements": 0,
     "recommendations": 921,
-    "lastUpdated": "8/23/2025, 10:30:49 AM"
+    "lastUpdated": "8/24/2025, 10:54:29 AM"
   },
   {
     "steamId": "477160",
@@ -3041,8 +3041,8 @@
     ],
     "achievements": 143,
     "metacriticScore": 70,
-    "recommendations": 165944,
-    "lastUpdated": "8/23/2025, 10:30:54 AM"
+    "recommendations": 165968,
+    "lastUpdated": "8/24/2025, 10:54:33 AM"
   },
   {
     "steamId": "526870",
@@ -3108,8 +3108,8 @@
     ],
     "achievements": 44,
     "metacriticScore": 91,
-    "recommendations": 203925,
-    "lastUpdated": "8/23/2025, 10:30:58 AM"
+    "recommendations": 204008,
+    "lastUpdated": "8/24/2025, 10:54:38 AM"
   },
   {
     "steamId": "532210",
@@ -3169,8 +3169,8 @@
       872080
     ],
     "achievements": 46,
-    "recommendations": 21333,
-    "lastUpdated": "8/23/2025, 10:31:07 AM"
+    "recommendations": 21334,
+    "lastUpdated": "8/24/2025, 10:54:49 AM"
   },
   {
     "steamId": "550650",
@@ -3219,7 +3219,7 @@
     ],
     "achievements": 36,
     "recommendations": 0,
-    "lastUpdated": "8/23/2025, 10:31:11 AM"
+    "lastUpdated": "8/24/2025, 10:54:54 AM"
   },
   {
     "steamId": "552990",
@@ -3285,7 +3285,7 @@
     "achievements": 43,
     "metacriticScore": 81,
     "recommendations": 1994,
-    "lastUpdated": "8/23/2025, 10:31:16 AM"
+    "lastUpdated": "8/24/2025, 10:54:59 AM"
   },
   {
     "steamId": "553850",
@@ -3346,8 +3346,8 @@
       2765950
     ],
     "achievements": 38,
-    "recommendations": 756718,
-    "lastUpdated": "8/23/2025, 10:31:24 AM"
+    "recommendations": 756894,
+    "lastUpdated": "8/24/2025, 10:55:09 AM"
   },
   {
     "steamId": "578080",
@@ -3396,8 +3396,8 @@
     "isFree": true,
     "dlc": [],
     "achievements": 37,
-    "recommendations": 1746223,
-    "lastUpdated": "8/23/2025, 10:31:29 AM"
+    "recommendations": 1746318,
+    "lastUpdated": "8/24/2025, 10:55:12 AM"
   },
   {
     "steamId": "582010",
@@ -3464,8 +3464,8 @@
     ],
     "achievements": 100,
     "metacriticScore": 88,
-    "recommendations": 305147,
-    "lastUpdated": "8/23/2025, 10:31:33 AM"
+    "recommendations": 305207,
+    "lastUpdated": "8/24/2025, 10:55:17 AM"
   },
   {
     "steamId": "594650",
@@ -3532,8 +3532,8 @@
     ],
     "achievements": 36,
     "metacriticScore": 81,
-    "recommendations": 196991,
-    "lastUpdated": "8/23/2025, 10:31:42 AM"
+    "recommendations": 197019,
+    "lastUpdated": "8/24/2025, 10:55:25 AM"
   },
   {
     "steamId": "632360",
@@ -3601,8 +3601,8 @@
     ],
     "achievements": 149,
     "metacriticScore": 85,
-    "recommendations": 216162,
-    "lastUpdated": "8/23/2025, 10:31:46 AM"
+    "recommendations": 216231,
+    "lastUpdated": "8/24/2025, 10:55:29 AM"
   },
   {
     "steamId": "648800",
@@ -3663,8 +3663,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 104,
-    "recommendations": 301075,
-    "lastUpdated": "8/23/2025, 10:31:50 AM"
+    "recommendations": 301130,
+    "lastUpdated": "8/24/2025, 10:55:34 AM"
   },
   {
     "steamId": "739630",
@@ -3726,8 +3726,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 54,
-    "recommendations": 637663,
-    "lastUpdated": "8/23/2025, 10:31:58 AM"
+    "recommendations": 637754,
+    "lastUpdated": "8/24/2025, 10:55:42 AM"
   },
   {
     "steamId": "755790",
@@ -3774,7 +3774,7 @@
     "dlc": [],
     "achievements": 0,
     "recommendations": 713,
-    "lastUpdated": "8/23/2025, 10:32:03 AM"
+    "lastUpdated": "8/24/2025, 10:55:47 AM"
   },
   {
     "steamId": "814380",
@@ -3836,8 +3836,8 @@
     "dlc": [],
     "achievements": 34,
     "metacriticScore": 88,
-    "recommendations": 240372,
-    "lastUpdated": "8/23/2025, 10:32:07 AM"
+    "recommendations": 240460,
+    "lastUpdated": "8/24/2025, 10:55:51 AM"
   },
   {
     "steamId": "892970",
@@ -3903,8 +3903,8 @@
       1620250
     ],
     "achievements": 0,
-    "recommendations": 429472,
-    "lastUpdated": "8/23/2025, 10:32:17 AM"
+    "recommendations": 429552,
+    "lastUpdated": "8/24/2025, 10:55:59 AM"
   },
   {
     "steamId": "899770",
@@ -3973,8 +3973,8 @@
     ],
     "achievements": 0,
     "metacriticScore": 80,
-    "recommendations": 101054,
-    "lastUpdated": "8/23/2025, 10:32:21 AM"
+    "recommendations": 101212,
+    "lastUpdated": "8/24/2025, 10:56:03 AM"
   },
   {
     "steamId": "901583",
@@ -4012,8 +4012,8 @@
     "dlc": [],
     "achievements": 55,
     "metacriticScore": 90,
-    "recommendations": 157928,
-    "lastUpdated": "8/23/2025, 10:32:26 AM"
+    "recommendations": 157979,
+    "lastUpdated": "8/24/2025, 10:56:07 AM"
   },
   {
     "steamId": "945360",
@@ -4074,8 +4074,8 @@
     "dlc": [],
     "achievements": 33,
     "metacriticScore": 85,
-    "recommendations": 622545,
-    "lastUpdated": "8/23/2025, 10:32:34 AM"
+    "recommendations": 622620,
+    "lastUpdated": "8/24/2025, 10:56:16 AM"
   },
   {
     "steamId": "990080",
@@ -4134,8 +4134,8 @@
     ],
     "achievements": 45,
     "metacriticScore": 83,
-    "recommendations": 237822,
-    "lastUpdated": "8/23/2025, 10:32:38 AM"
+    "recommendations": 237873,
+    "lastUpdated": "8/24/2025, 10:56:20 AM"
   },
   {
     "steamId": "1063730",
@@ -4200,8 +4200,8 @@
       2487480
     ],
     "achievements": 133,
-    "recommendations": 246372,
-    "lastUpdated": "8/23/2025, 10:32:41 AM"
+    "recommendations": 246384,
+    "lastUpdated": "8/24/2025, 10:56:23 AM"
   },
   {
     "steamId": "1085660",
@@ -4264,8 +4264,8 @@
     ],
     "achievements": 23,
     "metacriticScore": 83,
-    "recommendations": 129937,
-    "lastUpdated": "8/23/2025, 10:32:52 AM"
+    "recommendations": 129959,
+    "lastUpdated": "8/24/2025, 10:56:33 AM"
   },
   {
     "steamId": "1086940",
@@ -4331,8 +4331,8 @@
     ],
     "achievements": 54,
     "metacriticScore": 96,
-    "recommendations": 685842,
-    "lastUpdated": "8/23/2025, 10:32:57 AM"
+    "recommendations": 686023,
+    "lastUpdated": "8/24/2025, 10:56:37 AM"
   },
   {
     "steamId": "1089350",
@@ -4389,7 +4389,7 @@
     "achievements": 50,
     "metacriticScore": 74,
     "recommendations": 46738,
-    "lastUpdated": "8/23/2025, 10:33:02 AM"
+    "lastUpdated": "8/24/2025, 10:56:42 AM"
   },
   {
     "steamId": "1091500",
@@ -4454,8 +4454,8 @@
     ],
     "achievements": 57,
     "metacriticScore": 86,
-    "recommendations": 783431,
-    "lastUpdated": "8/23/2025, 10:33:12 AM"
+    "recommendations": 783812,
+    "lastUpdated": "8/24/2025, 10:56:53 AM"
   },
   {
     "steamId": "1097150",
@@ -4501,8 +4501,8 @@
     "dlc": [],
     "achievements": 34,
     "metacriticScore": 80,
-    "recommendations": 415569,
-    "lastUpdated": "8/23/2025, 10:33:16 AM"
+    "recommendations": 415562,
+    "lastUpdated": "8/24/2025, 10:56:57 AM"
   },
   {
     "steamId": "1116170",
@@ -4566,7 +4566,7 @@
     "dlc": [],
     "achievements": 31,
     "recommendations": 273,
-    "lastUpdated": "8/23/2025, 10:33:19 AM"
+    "lastUpdated": "8/24/2025, 10:57:01 AM"
   },
   {
     "steamId": "1172470",
@@ -4624,7 +4624,7 @@
     "achievements": 12,
     "metacriticScore": 88,
     "recommendations": 1564,
-    "lastUpdated": "8/23/2025, 10:33:26 AM"
+    "lastUpdated": "8/24/2025, 10:57:08 AM"
   },
   {
     "steamId": "1174180",
@@ -4686,8 +4686,8 @@
     "dlc": [],
     "achievements": 51,
     "metacriticScore": 93,
-    "recommendations": 709315,
-    "lastUpdated": "8/23/2025, 10:33:30 AM"
+    "recommendations": 709570,
+    "lastUpdated": "8/24/2025, 10:57:13 AM"
   },
   {
     "steamId": "1203220",
@@ -4748,8 +4748,8 @@
       2732000
     ],
     "achievements": 40,
-    "recommendations": 196580,
-    "lastUpdated": "8/23/2025, 10:33:34 AM"
+    "recommendations": 196598,
+    "lastUpdated": "8/24/2025, 10:57:17 AM"
   },
   {
     "steamId": "1222670",
@@ -4812,8 +4812,8 @@
       3200000
     ],
     "achievements": 0,
-    "recommendations": 81381,
-    "lastUpdated": "8/23/2025, 10:33:41 AM"
+    "recommendations": 81394,
+    "lastUpdated": "8/24/2025, 10:57:27 AM"
   },
   {
     "steamId": "1238810",
@@ -4876,8 +4876,8 @@
       1264171
     ],
     "achievements": 21,
-    "recommendations": 224038,
-    "lastUpdated": "8/23/2025, 10:33:45 AM"
+    "recommendations": 224125,
+    "lastUpdated": "8/24/2025, 10:57:31 AM"
   },
   {
     "steamId": "1240440",
@@ -4934,8 +4934,8 @@
       1708091
     ],
     "achievements": 144,
-    "recommendations": 33198,
-    "lastUpdated": "8/23/2025, 10:33:49 AM"
+    "recommendations": 33202,
+    "lastUpdated": "8/24/2025, 10:57:35 AM"
   },
   {
     "steamId": "1245620",
@@ -5000,8 +5000,8 @@
     ],
     "achievements": 42,
     "metacriticScore": 94,
-    "recommendations": 782772,
-    "lastUpdated": "8/23/2025, 10:33:59 AM"
+    "recommendations": 782927,
+    "lastUpdated": "8/24/2025, 10:57:45 AM"
   },
   {
     "steamId": "1326470",
@@ -5064,8 +5064,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 32,
-    "recommendations": 236080,
-    "lastUpdated": "8/23/2025, 10:34:04 AM"
+    "recommendations": 236169,
+    "lastUpdated": "8/24/2025, 10:57:49 AM"
   },
   {
     "steamId": "1491000",
@@ -5126,8 +5126,8 @@
       3556540
     ],
     "achievements": 33,
-    "recommendations": 715,
-    "lastUpdated": "8/23/2025, 10:34:07 AM"
+    "recommendations": 716,
+    "lastUpdated": "8/24/2025, 10:57:52 AM"
   },
   {
     "steamId": "1517290",
@@ -5186,8 +5186,8 @@
       3269070
     ],
     "achievements": 34,
-    "recommendations": 244822,
-    "lastUpdated": "8/23/2025, 10:34:18 AM"
+    "recommendations": 245568,
+    "lastUpdated": "8/24/2025, 10:58:01 AM"
   },
   {
     "steamId": "1623730",
@@ -5253,8 +5253,8 @@
       2771110
     ],
     "achievements": 56,
-    "recommendations": 331116,
-    "lastUpdated": "8/23/2025, 10:34:27 AM"
+    "recommendations": 331179,
+    "lastUpdated": "8/24/2025, 10:58:10 AM"
   },
   {
     "steamId": "1811260",
@@ -5303,8 +5303,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 39,
-    "recommendations": 124287,
-    "lastUpdated": "8/23/2025, 10:34:40 AM"
+    "recommendations": 124281,
+    "lastUpdated": "8/24/2025, 10:58:23 AM"
   },
   {
     "steamId": "1938090",
@@ -5364,8 +5364,8 @@
       3159190
     ],
     "achievements": 107,
-    "recommendations": 394150,
-    "lastUpdated": "8/23/2025, 10:34:44 AM"
+    "recommendations": 394197,
+    "lastUpdated": "8/24/2025, 10:58:27 AM"
   },
   {
     "steamId": "1966720",
@@ -5420,8 +5420,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 397108,
-    "lastUpdated": "8/23/2025, 10:34:55 AM"
+    "recommendations": 397148,
+    "lastUpdated": "8/24/2025, 10:58:34 AM"
   },
   {
     "steamId": "2186680",
@@ -5491,8 +5491,8 @@
       3650800
     ],
     "achievements": 106,
-    "recommendations": 24031,
-    "lastUpdated": "8/23/2025, 10:34:58 AM"
+    "recommendations": 24072,
+    "lastUpdated": "8/24/2025, 10:58:37 AM"
   },
   {
     "steamId": "2246340",
@@ -5560,8 +5560,8 @@
       3410840
     ],
     "achievements": 50,
-    "recommendations": 167678,
-    "lastUpdated": "8/23/2025, 10:35:03 AM"
+    "recommendations": 167852,
+    "lastUpdated": "8/24/2025, 10:58:41 AM"
   },
   {
     "steamId": "2358720",
@@ -5626,8 +5626,8 @@
       3288260
     ],
     "achievements": 81,
-    "recommendations": 853158,
-    "lastUpdated": "8/23/2025, 10:35:12 AM"
+    "recommendations": 853446,
+    "lastUpdated": "8/24/2025, 10:58:51 AM"
   },
   {
     "steamId": "3164500",
@@ -5691,8 +5691,8 @@
     "isFree": false,
     "dlc": [],
     "achievements": 11,
-    "recommendations": 209365,
-    "lastUpdated": "8/23/2025, 10:35:20 AM"
+    "recommendations": 209628,
+    "lastUpdated": "8/24/2025, 10:59:00 AM"
   },
   {
     "steamId": "3241660",
@@ -5753,7 +5753,7 @@
     "isFree": false,
     "dlc": [],
     "achievements": 0,
-    "recommendations": 184621,
-    "lastUpdated": "8/23/2025, 10:35:29 AM"
+    "recommendations": 184862,
+    "lastUpdated": "8/24/2025, 10:59:09 AM"
   }
 ]
