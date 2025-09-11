@@ -1,5 +1,362 @@
 [
   {
+    "steamId": "359550",
+    "name": "《彩虹六号：围攻X》",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "tags": [
+      "动作",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "《彩虹六号：围攻x》"
+    ],
+    "searchText": "《彩虹六号：围攻x》 ubisoft montreal ubisoft"
+  },
+  {
+    "steamId": "381210",
+    "name": "黎明杀机",
+    "developer": "Behaviour Interactive Inc.",
+    "publisher": "Behaviour Interactive Inc.",
+    "tags": [
+      "动作"
+    ],
+    "nameWords": [
+      "黎明杀机"
+    ],
+    "searchText": "黎明杀机 behaviour interactive inc. behaviour interactive inc."
+  },
+  {
+    "steamId": "553850",
+    "name": "HELLDIVERS™ 2",
+    "developer": "Arrowhead Game Studios",
+    "publisher": "PlayStation Publishing LLC",
+    "tags": [
+      "动作"
+    ],
+    "nameWords": [
+      "helldivers™",
+      "2"
+    ],
+    "searchText": "helldivers™ 2 arrowhead game studios playstation publishing llc"
+  },
+  {
+    "steamId": "1086940",
+    "name": "Baldur's Gate 3",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "tags": [
+      "冒险",
+      "角色扮演",
+      "策略"
+    ],
+    "nameWords": [
+      "baldur's",
+      "gate",
+      "3"
+    ],
+    "searchText": "baldur's gate 3 larian studios larian studios"
+  },
+  {
+    "steamId": "1091500",
+    "name": "赛博朋克 2077",
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT RED",
+    "tags": [
+      "角色扮演"
+    ],
+    "nameWords": [
+      "赛博朋克",
+      "2077"
+    ],
+    "searchText": "赛博朋克 2077 cd projekt red cd projekt red"
+  },
+  {
+    "steamId": "1335200",
+    "name": "Action对魔忍",
+    "developer": "LiLith",
+    "publisher": "Infini-Brain inc.",
+    "tags": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "action对魔忍"
+    ],
+    "searchText": "action对魔忍 lilith infini-brain inc."
+  },
+  {
+    "steamId": "3551340",
+    "name": "《足球经理26》",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "tags": [
+      "模拟",
+      "体育",
+      "策略"
+    ],
+    "nameWords": [
+      "《足球经理26》"
+    ],
+    "searchText": "《足球经理26》 sports interactive sega"
+  },
+  {
+    "steamId": "311310",
+    "name": "Naval Action",
+    "developer": "Bermuda Computer Club",
+    "publisher": "Bermuda Computer Club",
+    "tags": [
+      "独立",
+      "大型多人在线",
+      "竞速",
+      "模拟",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "naval",
+      "action"
+    ],
+    "searchText": "naval action bermuda computer club bermuda computer club"
+  },
+  {
+    "steamId": "1030300",
+    "name": "Hollow Knight: Silksong",
+    "developer": "Team Cherry",
+    "publisher": "Team Cherry",
+    "tags": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "nameWords": [
+      "hollow",
+      "knight:",
+      "silksong"
+    ],
+    "searchText": "hollow knight: silksong team cherry team cherry"
+  },
+  {
+    "steamId": "1903340",
+    "name": "光与影：33号远征队",
+    "developer": "Sandfall Interactive",
+    "publisher": "Kepler Interactive",
+    "tags": [
+      "动作",
+      "角色扮演"
+    ],
+    "nameWords": [
+      "光与影：33号远征队"
+    ],
+    "searchText": "光与影：33号远征队 sandfall interactive kepler interactive"
+  },
+  {
+    "steamId": "1013320",
+    "name": "火之石 - 放置英雄RPG",
+    "developer": "Holyday Studios",
+    "publisher": "Holyday Studios",
+    "tags": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "角色扮演",
+      "模拟",
+      "策略",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "火之石",
+      "-",
+      "放置英雄rpg"
+    ],
+    "searchText": "火之石 - 放置英雄rpg holyday studios holyday studios"
+  },
+  {
+    "steamId": "2719750",
+    "name": "Star Birds",
+    "developer": "Toukana Interactive",
+    "publisher": "Toukana Interactive",
+    "tags": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "nameWords": [
+      "star",
+      "birds"
+    ],
+    "searchText": "star birds toukana interactive toukana interactive"
+  },
+  {
+    "steamId": "1850510",
+    "name": "TRIANGLE STRATEGY",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "tags": [
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "nameWords": [
+      "triangle",
+      "strategy"
+    ],
+    "searchText": "triangle strategy square enix square enix"
+  },
+  {
+    "steamId": "2767030",
+    "name": "漫威争锋",
+    "developer": "NetEase Games",
+    "publisher": "NetEase Games",
+    "tags": [
+      "动作",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "漫威争锋"
+    ],
+    "searchText": "漫威争锋 netease games netease games"
+  },
+  {
+    "steamId": "568220",
+    "name": "Lobotomy Corporation | Monster Management Simulation",
+    "developer": "ProjectMoon",
+    "publisher": "ProjectMoon",
+    "tags": [
+      "独立",
+      "模拟"
+    ],
+    "nameWords": [
+      "lobotomy",
+      "corporation",
+      "|",
+      "monster",
+      "management",
+      "simulation"
+    ],
+    "searchText": "lobotomy corporation | monster management simulation projectmoon projectmoon"
+  },
+  {
+    "steamId": "1449850",
+    "name": "Yu-Gi-Oh! Master Duel",
+    "developer": "KONAMI",
+    "publisher": "KONAMI",
+    "tags": [
+      "模拟",
+      "策略",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "yu-gi-oh!",
+      "master",
+      "duel"
+    ],
+    "searchText": "yu-gi-oh! master duel konami konami"
+  },
+  {
+    "steamId": "3293260",
+    "name": "Waterpark Simulator",
+    "developer": "CayPlay",
+    "publisher": "CayPlay",
+    "tags": [
+      "休闲",
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "nameWords": [
+      "waterpark",
+      "simulator"
+    ],
+    "searchText": "waterpark simulator cayplay cayplay"
+  },
+  {
+    "steamId": "1158310",
+    "name": "Crusader Kings III",
+    "developer": "Paradox Development Studio",
+    "publisher": "Paradox Interactive",
+    "tags": [
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "nameWords": [
+      "crusader",
+      "kings",
+      "iii"
+    ],
+    "searchText": "crusader kings iii paradox development studio paradox interactive"
+  },
+  {
+    "steamId": "3405690",
+    "name": "EA SPORTS FC™ 26",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "tags": [
+      "模拟",
+      "体育"
+    ],
+    "nameWords": [
+      "ea",
+      "sports",
+      "fc™",
+      "26"
+    ],
+    "searchText": "ea sports fc™ 26 ea canada electronic arts"
+  },
+  {
+    "steamId": "2669320",
+    "name": "《EA SPORTS FC™ 25》",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "tags": [
+      "模拟",
+      "体育"
+    ],
+    "nameWords": [
+      "《ea",
+      "sports",
+      "fc™",
+      "25》"
+    ],
+    "searchText": "《ea sports fc™ 25》 ea canada electronic arts"
+  },
+  {
+    "steamId": "2644500",
+    "name": "Sports Sports",
+    "developer": "Broxcorp",
+    "publisher": "Broxcorp",
+    "tags": [
+      "休闲",
+      "独立",
+      "体育"
+    ],
+    "nameWords": [
+      "sports",
+      "sports"
+    ],
+    "searchText": "sports sports broxcorp broxcorp"
+  },
+  {
+    "steamId": "3472040",
+    "name": "NBA 2K26",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "tags": [
+      "体育"
+    ],
+    "nameWords": [
+      "nba",
+      "2k26"
+    ],
+    "searchText": "nba 2k26 visual concepts 2k"
+  },
+  {
     "steamId": "10",
     "name": "Counter-Strike",
     "developer": "Valve",
@@ -627,20 +984,6 @@
     "searchText": "ark: survival evolved studio wildcard studio wildcard"
   },
   {
-    "steamId": "359550",
-    "name": "《彩虹六号：围攻X》",
-    "developer": "Ubisoft Montreal",
-    "publisher": "Ubisoft",
-    "tags": [
-      "动作",
-      "免费开玩"
-    ],
-    "nameWords": [
-      "《彩虹六号：围攻x》"
-    ],
-    "searchText": "《彩虹六号：围攻x》 ubisoft montreal ubisoft"
-  },
-  {
     "steamId": "377160",
     "name": "Fallout 4",
     "developer": "Bethesda Game Studios",
@@ -653,19 +996,6 @@
       "4"
     ],
     "searchText": "fallout 4 bethesda game studios bethesda softworks"
-  },
-  {
-    "steamId": "381210",
-    "name": "黎明杀机",
-    "developer": "Behaviour Interactive Inc.",
-    "publisher": "Behaviour Interactive Inc.",
-    "tags": [
-      "动作"
-    ],
-    "nameWords": [
-      "黎明杀机"
-    ],
-    "searchText": "黎明杀机 behaviour interactive inc. behaviour interactive inc."
   },
   {
     "steamId": "386360",
@@ -878,20 +1208,6 @@
       "warships"
     ],
     "searchText": "world of warships wargaming group limited wargaming group limited"
-  },
-  {
-    "steamId": "553850",
-    "name": "HELLDIVERS™ 2",
-    "developer": "Arrowhead Game Studios",
-    "publisher": "PlayStation Publishing LLC",
-    "tags": [
-      "动作"
-    ],
-    "nameWords": [
-      "helldivers™",
-      "2"
-    ],
-    "searchText": "helldivers™ 2 arrowhead game studios playstation publishing llc"
   },
   {
     "steamId": "578080",
@@ -1137,23 +1453,6 @@
     "searchText": "命运2 bungie bungie"
   },
   {
-    "steamId": "1086940",
-    "name": "Baldur's Gate 3",
-    "developer": "Larian Studios",
-    "publisher": "Larian Studios",
-    "tags": [
-      "冒险",
-      "角色扮演",
-      "策略"
-    ],
-    "nameWords": [
-      "baldur's",
-      "gate",
-      "3"
-    ],
-    "searchText": "baldur's gate 3 larian studios larian studios"
-  },
-  {
     "steamId": "1089350",
     "name": "NBA 2K20",
     "developer": "Visual Concepts",
@@ -1167,20 +1466,6 @@
       "2k20"
     ],
     "searchText": "nba 2k20 visual concepts 2k"
-  },
-  {
-    "steamId": "1091500",
-    "name": "赛博朋克 2077",
-    "developer": "CD PROJEKT RED",
-    "publisher": "CD PROJEKT RED",
-    "tags": [
-      "角色扮演"
-    ],
-    "nameWords": [
-      "赛博朋克",
-      "2077"
-    ],
-    "searchText": "赛博朋克 2077 cd projekt red cd projekt red"
   },
   {
     "steamId": "1097150",
