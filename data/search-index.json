@@ -88,37 +88,19 @@
     "searchText": "action对魔忍 lilith infini-brain inc."
   },
   {
-    "steamId": "3551340",
-    "name": "《足球经理26》",
-    "developer": "Sports Interactive",
-    "publisher": "SEGA",
+    "steamId": "1285190",
+    "name": "无主之地®4",
+    "developer": "Gearbox Software",
+    "publisher": "2K",
     "tags": [
-      "模拟",
-      "体育",
-      "策略"
+      "动作",
+      "冒险",
+      "角色扮演"
     ],
     "nameWords": [
-      "《足球经理26》"
+      "无主之地®4"
     ],
-    "searchText": "《足球经理26》 sports interactive sega"
-  },
-  {
-    "steamId": "311310",
-    "name": "Naval Action",
-    "developer": "Bermuda Computer Club",
-    "publisher": "Bermuda Computer Club",
-    "tags": [
-      "独立",
-      "大型多人在线",
-      "竞速",
-      "模拟",
-      "免费开玩"
-    ],
-    "nameWords": [
-      "naval",
-      "action"
-    ],
-    "searchText": "naval action bermuda computer club bermuda computer club"
+    "searchText": "无主之地®4 gearbox software 2k"
   },
   {
     "steamId": "1030300",
@@ -138,6 +120,20 @@
     "searchText": "hollow knight: silksong team cherry team cherry"
   },
   {
+    "steamId": "2767030",
+    "name": "漫威争锋",
+    "developer": "NetEase Games",
+    "publisher": "NetEase Games",
+    "tags": [
+      "动作",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "漫威争锋"
+    ],
+    "searchText": "漫威争锋 netease games netease games"
+  },
+  {
     "steamId": "1903340",
     "name": "光与影：33号远征队",
     "developer": "Sandfall Interactive",
@@ -152,45 +148,22 @@
     "searchText": "光与影：33号远征队 sandfall interactive kepler interactive"
   },
   {
-    "steamId": "1013320",
-    "name": "火之石 - 放置英雄RPG",
-    "developer": "Holyday Studios",
-    "publisher": "Holyday Studios",
+    "steamId": "1172710",
+    "name": "Dune: Awakening 沙丘：觉醒",
+    "developer": "Funcom",
+    "publisher": "Funcom",
     "tags": [
       "动作",
       "冒险",
-      "休闲",
-      "独立",
       "大型多人在线",
-      "角色扮演",
-      "模拟",
-      "策略",
-      "免费开玩"
+      "角色扮演"
     ],
     "nameWords": [
-      "火之石",
-      "-",
-      "放置英雄rpg"
+      "dune:",
+      "awakening",
+      "沙丘：觉醒"
     ],
-    "searchText": "火之石 - 放置英雄rpg holyday studios holyday studios"
-  },
-  {
-    "steamId": "2719750",
-    "name": "Star Birds",
-    "developer": "Toukana Interactive",
-    "publisher": "Toukana Interactive",
-    "tags": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "nameWords": [
-      "star",
-      "birds"
-    ],
-    "searchText": "star birds toukana interactive toukana interactive"
+    "searchText": "dune: awakening 沙丘：觉醒 funcom funcom"
   },
   {
     "steamId": "1850510",
@@ -207,20 +180,6 @@
       "strategy"
     ],
     "searchText": "triangle strategy square enix square enix"
-  },
-  {
-    "steamId": "2767030",
-    "name": "漫威争锋",
-    "developer": "NetEase Games",
-    "publisher": "NetEase Games",
-    "tags": [
-      "动作",
-      "免费开玩"
-    ],
-    "nameWords": [
-      "漫威争锋"
-    ],
-    "searchText": "漫威争锋 netease games netease games"
   },
   {
     "steamId": "568220",
@@ -240,23 +199,6 @@
       "simulation"
     ],
     "searchText": "lobotomy corporation | monster management simulation projectmoon projectmoon"
-  },
-  {
-    "steamId": "1449850",
-    "name": "Yu-Gi-Oh! Master Duel",
-    "developer": "KONAMI",
-    "publisher": "KONAMI",
-    "tags": [
-      "模拟",
-      "策略",
-      "免费开玩"
-    ],
-    "nameWords": [
-      "yu-gi-oh!",
-      "master",
-      "duel"
-    ],
-    "searchText": "yu-gi-oh! master duel konami konami"
   },
   {
     "steamId": "3293260",
@@ -291,6 +233,39 @@
       "iii"
     ],
     "searchText": "crusader kings iii paradox development studio paradox interactive"
+  },
+  {
+    "steamId": "1449850",
+    "name": "Yu-Gi-Oh! Master Duel",
+    "developer": "KONAMI",
+    "publisher": "KONAMI",
+    "tags": [
+      "模拟",
+      "策略",
+      "免费开玩"
+    ],
+    "nameWords": [
+      "yu-gi-oh!",
+      "master",
+      "duel"
+    ],
+    "searchText": "yu-gi-oh! master duel konami konami"
+  },
+  {
+    "steamId": "270880",
+    "name": "American Truck Simulator",
+    "developer": "SCS Software",
+    "publisher": "SCS Software",
+    "tags": [
+      "独立",
+      "模拟"
+    ],
+    "nameWords": [
+      "american",
+      "truck",
+      "simulator"
+    ],
+    "searchText": "american truck simulator scs software scs software"
   },
   {
     "steamId": "3405690",
@@ -355,6 +330,22 @@
       "2k26"
     ],
     "searchText": "nba 2k26 visual concepts 2k"
+  },
+  {
+    "steamId": "2230960",
+    "name": "Sports: Renovations",
+    "developer": "Goat Gamez",
+    "publisher": "Dear Villagers",
+    "tags": [
+      "独立",
+      "模拟",
+      "体育"
+    ],
+    "nameWords": [
+      "sports:",
+      "renovations"
+    ],
+    "searchText": "sports: renovations goat gamez dear villagers"
   },
   {
     "steamId": "10",
