@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "9/12/2025, 10:33:38 AM",
-  "gamesCount": 111,
-  "popularGamesCount": 118,
+  "lastUpdated": "9/13/2025, 10:24:52 AM",
+  "gamesCount": 94,
+  "popularGamesCount": 100,
   "version": "2.0.0",
   "dataSource": "SteamSpy + Steam Store (Puppeteer + Proxy)",
   "mode": "puppeteer",
   "proxyEnabled": true,
   "requestStats": {
-    "requestCount": 121,
-    "failedRequests": 3,
-    "successRate": 0.9752066115702479,
+    "requestCount": 101,
+    "failedRequests": 0,
+    "successRate": 1,
     "cacheSize": 0,
     "mode": "Puppeteer + Proxy"
   }
