@@ -339,7 +339,7 @@
   },
   {
     "steamId": "230410",
-    "name": "Warframe 星际战甲",
+    "name": "Warframe",
     "developer": "Digital Extremes",
     "publisher": "Digital Extremes",
     "tags": [
@@ -348,10 +348,9 @@
       "免费开玩"
     ],
     "nameWords": [
-      "warframe",
-      "星际战甲"
+      "warframe"
     ],
-    "searchText": "warframe 星际战甲 digital extremes digital extremes"
+    "searchText": "warframe digital extremes digital extremes"
   },
   {
     "steamId": "236390",
@@ -1257,8 +1256,7 @@
     "tags": [
       "动作",
       "冒险",
-      "大型多人在线",
-      "免费开玩"
+      "大型多人在线"
     ],
     "nameWords": [
       "永劫无间"
@@ -1445,7 +1443,7 @@
   },
   {
     "steamId": "2186680",
-    "name": "Warhammer 40,000: 行商浪人",
+    "name": "Warhammer 40,000: Rogue Trader",
     "developer": "Owlcat Games",
     "publisher": "Owlcat Games",
     "tags": [
@@ -1458,9 +1456,10 @@
     "nameWords": [
       "warhammer",
       "40,000:",
-      "行商浪人"
+      "rogue",
+      "trader"
     ],
-    "searchText": "warhammer 40,000: 行商浪人 owlcat games owlcat games"
+    "searchText": "warhammer 40,000: rogue trader owlcat games owlcat games"
   },
   {
     "steamId": "2246340",
