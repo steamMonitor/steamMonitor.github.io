@@ -1,6 +1,6 @@
 # Steam Price Monitor
 
-Steam价格监控应用 - 自动部署于 2026-10-31 16:15:59 UTC
+Steam价格监控应用 - 自动部署于 2026-11-01 17:01:31 UTC
 
 访问: https://steammonitor.github.io
 B站视频页面: https://steammonitor.github.io/bili
